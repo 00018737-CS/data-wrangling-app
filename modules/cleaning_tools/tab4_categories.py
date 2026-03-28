@@ -20,7 +20,7 @@ def render():
         st.warning("No categorical or text columns found in the dataset.")
         return
 
-    selected_col = st.selectbox("Select a column to transform:", cat_cols)
+    selected_col = st.selectbox("Select a column to transform:", cat_cols, key="tab4_selected_col")
     
     unique_count = df[selected_col].nunique()
     st.write(f"**Current Unique Values (Top 10 out of {unique_count}):**")
@@ -34,7 +34,7 @@ def render():
         c1, c2 = st.columns(2)
         with c1:
             st.write("**Trim Whitespace** (e.g., `' Apple '` → `'Apple'`)")
-            if st.button("Trim Spaces", use_container_width=True):
+            if st.button("Trim Spaces", key="tab4_trim_spaces", use_container_width=True):
                 df[selected_col] = df[selected_col].astype(str).str.strip()
                 st.session_state.df = df
                 st.session_state.log.append(f"Trimmed whitespace in '{selected_col}'")
@@ -43,8 +43,8 @@ def render():
         
         with c2:
             st.write("**Change Text Case**")
-            case_action = st.selectbox("Format:", ["lowercase", "UPPERCASE", "Title Case"], label_visibility="collapsed")
-            if st.button("Apply Case", use_container_width=True):
+            case_action = st.selectbox("Format:", ["lowercase", "UPPERCASE", "Title Case"], label_visibility="collapsed", key="tab4_case_action")
+            if st.button("Apply Case", key="tab4_apply_case", use_container_width=True):
                 if case_action == "lowercase": df[selected_col] = df[selected_col].astype(str).str.lower()
                 elif case_action == "UPPERCASE": df[selected_col] = df[selected_col].astype(str).str.upper()
                 else: df[selected_col] = df[selected_col].astype(str).str.title()
@@ -65,15 +65,16 @@ def render():
             
         map_df = pd.DataFrame({'Original Value': unique_vals, 'New Value': unique_vals})
         
-        edited_df = st.data_editor(map_df, hide_index=True, use_container_width=True, num_rows="fixed")
+        edited_df = st.data_editor(map_df, hide_index=True, use_container_width=True, num_rows="fixed", key="tab4_mapping_editor")
         
         unmatched_action = st.radio(
             "What should happen to values NOT shown/edited in the table?", 
             ["Remain unchanged", "Set to 'Other'"], 
-            horizontal=True
+            horizontal=True,
+            key="tab4_unmatched_action"
         )
         
-        if st.button("Apply Custom Mapping"):
+        if st.button("Apply Custom Mapping", key="tab4_apply_mapping"):
             mapping_dict = dict(zip(edited_df['Original Value'], edited_df['New Value']))
             actual_changes = {k: v for k, v in mapping_dict.items() if k != v}
             
@@ -92,7 +93,7 @@ def render():
         st.write("### 3. Rare Category Grouping")
         st.write("Group tiny, noisy categories into a single 'Other' group to clean up your analysis.")
         
-        threshold = st.slider("Group categories appearing less than (%)", 1.0, 50.0, 5.0, step=0.5)
+        threshold = st.slider("Group categories appearing less than (%)", 1.0, 50.0, 5.0, step=0.5, key="tab4_threshold")
         
         freq = df[selected_col].value_counts(normalize=True) * 100
         rare_cats = freq[freq < threshold].index.tolist()
@@ -102,7 +103,7 @@ def render():
             with st.expander("See categories to be grouped"):
                 st.write(", ".join(rare_cats))
                 
-            if st.button("Group Rare Categories"):
+            if st.button("Group Rare Categories", key="tab4_group_rare"):
                 df[selected_col] = df[selected_col].replace(rare_cats, 'Other')
                 st.session_state.df = df
                 st.session_state.log.append(f"Grouped {len(rare_cats)} rare categories in '{selected_col}' (<{threshold}%)")
@@ -117,7 +118,7 @@ def render():
         
         st.write(f"*Action will create **{unique_count}** new columns (e.g., `{selected_col}_Value1`).*")
         
-        if st.button("⚡ Apply One-Hot Encoding", type="primary"):
+        if st.button("⚡ Apply One-Hot Encoding", key="tab4_apply_ohe", type="primary"):
             df = pd.get_dummies(df, columns=[selected_col], prefix=selected_col)
             st.session_state.df = df
             st.session_state.log.append(f"Applied One-Hot Encoding to '{selected_col}' ({unique_count} new columns)")
