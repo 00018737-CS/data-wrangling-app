@@ -5,7 +5,7 @@ import numpy as np
 def render():
     df = st.session_state.df
 
-    st.subheader("🔄 Data Types & Parsing")
+    st.subheader("Data Types & Parsing")
     st.write("Convert column types and clean dirty numeric strings (e.g., currency symbols).")
 
     # NOTIFICATION SYSTEM
@@ -51,7 +51,7 @@ def render():
             
             if target_type in ["Numeric (Float)", "Integer"]:
                 st.write("---")
-                clean_dirty = st.checkbox("🧹 Clean 'dirty' strings?", help="Removes currency symbols ($), commas, and spaces before converting.")
+                clean_dirty = st.checkbox("Clean 'dirty' strings?", help="Removes currency symbols ($), commas, and spaces before converting.")
             
             elif target_type == "Datetime":
                 st.write("---")

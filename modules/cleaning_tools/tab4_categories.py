@@ -28,7 +28,7 @@ def render():
 
     # 1. VALUE STANDARDIZATION
     with st.container(border=True):
-        st.write("### 🧹 1. Value Standardization")
+        st.write("### 1. Value Standardization")
         st.write("Fix formatting issues like invisible spaces or messy casing.")
         
         c1, c2 = st.columns(2)
