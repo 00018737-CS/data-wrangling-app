@@ -16,7 +16,7 @@ from modules.cleaning_tools import tab7_col_ops
 from modules.cleaning_tools import tab8_validation
 
 # INSERT YOUR GEMINI API KEY HERE
-GEMINI_API_KEY = "AIzaSyDhJnYHvCSKKHkL-jPb0KiFd1nrwfKti3M"
+GEMINI_API_KEY = "AIzaSyBbWNzJtH-XTWSg1944cIPDSl_ZqxRrfeg"
 
 def render():
     st.header("🛠️ Page B — Data Cleaning Studio")
