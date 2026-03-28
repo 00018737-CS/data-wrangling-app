@@ -1,10 +1,9 @@
-🤖 AI Usage Report
 Project Name: AI Data Wrangler
 
-Coursework: Data Science & Web Applications
+Coursework: Data Wrangling and Vizualization
 
 1. 🛠 AI Tools Used
-Model: Google Gemini / ChatGPT
+Model: Google Gemini
 
 Purpose: Code generation, debugging, and UI structuring.
 

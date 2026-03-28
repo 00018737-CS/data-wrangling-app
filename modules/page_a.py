@@ -17,35 +17,19 @@ def load_data(file):
         return None
 
 def convert_google_sheets_url(url: str) -> str | None:
-    """
-    Converts any recognisable Google Sheets share / edit URL into a
-    direct CSV-export URL that pandas can read without authentication.
 
-    Handles the four common URL shapes:
-      1. /spreadsheets/d/<ID>/edit#gid=<GID>
-      2. /spreadsheets/d/<ID>/pub?gid=<GID>&...
-      3. /spreadsheets/d/<ID>/export?...          (already an export link)
-      4. Plain share link  /spreadsheets/d/<ID>   (uses first sheet, gid=0)
-
-    Returns None when the URL is not a Google Sheets link at all so the
-    caller can show a helpful error instead of crashing.
-    """
-
-    # Must at least look like a Google Sheets URL
     if "docs.google.com/spreadsheets" not in url:
         return None
 
-    # --- Already a CSV export link → return as-is -----------------------
     if "/export" in url and "format=csv" in url:
         return url
 
-    # --- Extract spreadsheet ID ----------------------------------------
     id_match = re.search(r"/spreadsheets/d/([a-zA-Z0-9_-]+)", url)
     if not id_match:
         return None
     spreadsheet_id = id_match.group(1)
 
-    # --- Extract sheet / gid (optional) ---------------------------------
+
     gid_match = re.search(r"[?&#]gid=(\d+)", url)
     gid = gid_match.group(1) if gid_match else "0"
 
@@ -69,7 +53,6 @@ def load_google_sheet(export_url: str) -> pd.DataFrame | None:
         return None
 
 def render():
-    # --- Custom CSS to make metrics look like modern cards ---
     st.markdown("""
     <style>
     div[data-testid="metric-container"] {
@@ -82,21 +65,19 @@ def render():
     </style>
     """, unsafe_allow_html=True)
 
-    # --- Header & Reset Button ---
     col_title, col_reset = st.columns([4, 1])
     with col_title:
-        st.title("📊 Data Overview")
+        st.title("Data Overview")
     with col_reset:
-        st.write("")  # spacing to align with title
-        if st.button("🔄 Reset Session", use_container_width=True):
+        st.write("")  
+        if st.button("Reset Session", use_container_width=True):
             st.session_state.df = None
             st.session_state.log = []
             st.cache_data.clear()
             st.rerun()
 
-    # --- Upload Section ---
     with st.container(border=True):
-        st.subheader("📥 1. Import Dataset")
+        st.subheader("1. Import Dataset")
 
         col_file, col_url = st.columns(2)
         with col_file:
@@ -111,17 +92,15 @@ def render():
                 placeholder="https://docs.google.com/spreadsheets/d/...",
             )
 
-        # Live hint while the user is typing a Sheets URL
         if sheets_url:
             export_url = convert_google_sheets_url(sheets_url)
             if export_url is None:
                 st.warning(
-                    "⚠️ That doesn't look like a Google Sheets URL. "
+                    "That doesn't look like a Google Sheets URL. "
                     "Paste the link from File → Share → Copy link inside Google Sheets.")
             else:
-                st.caption(f"✅ Resolved export URL: {export_url}")
+                st.caption(f"Resolved export URL: {export_url}")
 
-    # Load logic — file upload takes priority over Sheets URL
     df = None
 
     if uploaded_file is not None:
@@ -136,27 +115,24 @@ def render():
                 df = load_google_sheet(export_url)
             if df is not None:
                 st.session_state.original_filename = "google_sheet"
-        # else: warning already shown above
-    # Dashboard — only shown once data is loaded
+
     if df is not None:
         st.session_state.df = df
 
-        # Top Metrics Row
-        st.write("### 🚀 Quick Stats")
+        st.write("### Quick Stats")
         m1, m2, m3 = st.columns(3)
         m1.metric("Shape (Rows, Cols)", f"{df.shape[0]:,} x {df.shape[1]}")
         m2.metric("Duplicates", df.duplicated().sum())
         m3.metric("Missing Values", int(df.isnull().sum().sum()))
 
-        st.write("")  # Spacer
+        st.write("") 
 
-        # --- Interactive Tabs for Data Exploration ---
-        st.write("### 🔍 Data Inspector")
+        st.write("### Data Inspector")
         tab_data, tab_meta, tab_num, tab_cat = st.tabs([
-            "📄 Raw Data",
-            "📋 Column Metadata",
-            "🔢 Numeric Stats",
-            "🔠 Categorical Stats",
+            "Raw Data",
+            "Column Metadata",
+            "Numeric Stats",
+            "Categorical Stats",
         ])
 
         with tab_data:
@@ -190,4 +166,4 @@ def render():
                 st.info("No categorical columns available.")
 
     else:
-        st.info("👆 Please upload a dataset or paste a public Google Sheets link to get started.")
+        st.info("Please upload a dataset or paste a public Google Sheets link to get started.")

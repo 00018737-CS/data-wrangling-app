@@ -16,11 +16,9 @@ def render():
         st.error(st.session_state.tab3_error)
         del st.session_state.tab3_error
 
-    # 1. CURRENT DATA TYPES OVERVIEW
     with st.container(border=True):
-        st.write("### 📋 Current Column Types")
+        st.write("### Current Column Types")
         
-        # Display a clean table showing dtypes and a sample value
         dtypes_df = pd.DataFrame({
             'Data Type': df.dtypes.astype(str),
             'Sample Value (Row 1)': df.iloc[0].astype(str) if not df.empty else "N/A"
@@ -29,7 +27,7 @@ def render():
 
     # 2. CONVERSION TOOLS
     with st.container(border=True):
-        st.write("### 🛠️ Conversion Tools")
+        st.write("### Conversion Tools")
         
         c1, c2 = st.columns([1, 1])
         
@@ -48,7 +46,6 @@ def render():
                 ["Numeric (Float)", "Integer", "Datetime", "Category", "String"]
             )
             
-            # Dynamic settings based on selection
             clean_dirty = False
             dt_format = "Auto-parse (Coerce errors)"
             
@@ -66,13 +63,12 @@ def render():
                     custom_format = st.text_input("Enter format string:", value="%Y-%m-%d")
 
             st.write("---")
-            if st.button("🚀 Convert Type", type="primary", use_container_width=True):
+            if st.button("Convert Type", type="primary", use_container_width=True):
                 series = df[col_to_fix].copy()
                 
                 try:
                     # Step 1: Clean dirty strings (if enabled)
                     if clean_dirty and target_type in ["Numeric (Float)", "Integer"]:
-                        # Regex keeps only digits, dots, and minus signs
                         series = series.astype(str).str.replace(r'[^\d.-]', '', regex=True)
 
                     # Step 2: Conversion
@@ -80,7 +76,6 @@ def render():
                         df[col_to_fix] = pd.to_numeric(series, errors='coerce')
                     
                     elif target_type == "Integer":
-                        # Convert to numeric first to handle string-based numbers, then to nullable Int64
                         df[col_to_fix] = pd.to_numeric(series, errors='coerce').astype('Int64')
                     
                     elif target_type == "Datetime":
