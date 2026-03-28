@@ -4,7 +4,7 @@ import pandas as pd
 
 st.set_page_config(
     page_title="AI Data Wrangler", 
-    page_icon="🛠️", 
+    page_icon="", 
     layout="wide"
 )
 
@@ -15,7 +15,7 @@ if 'original_filename' not in st.session_state:
 if 'log' not in st.session_state:
     st.session_state.log = []
 
-st.sidebar.title("🧭 Navigation")
+st.sidebar.title("Navigation")
 st.sidebar.write("AI-Assisted Data Wrangler & Visualizer")
 
 page = st.sidebar.radio(
