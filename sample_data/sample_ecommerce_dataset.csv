@@ -1,0 +1,1221 @@
+order_id,customer_name,gender,age,city,product_category,price,quantity,order_date,rating
+1000,Mike Ross,Female,25.0,Samarkand,Clothing,$15,2,2024-03-27,4.4
+1001,Ali Khan,Male,45.0,Samarkand,Clothing,"$5,000",9,2024-03-18,2.6
+1002,,FEMALE,120.0,Samarkand,Furniture,$15,10,2024-02-05,4.5
+1003,Bob Lee, male ,120.0,Bukhara,Clothing,$900,4,2024-02-13,
+1004,Mike Ross,Male,,Khiva,Other,$50,2,2024-02-18,
+1005,Anna Kim,Female,120.0,Tashkent,Electronics,$900,4,2024-02-07,5.0
+1006,Mike Ross,FEMALE,,Bukhara,Clothing,$900,6,2024-02-15,
+1007,Sara Lee,Female,59.0,Samarkand,Furniture,$15,7,2024-02-04,5.0
+1008,John Doe,Male,38.0,Bukhara,Furniture,$15,5,2024-01-09,
+1009,Bob Lee,FEMALE,,Samarkand,Beauty,$80,3,2024-02-01,
+1010,Bob Lee, male ,,Samarkand,Clothing,$15,9,2024-03-04,2.7
+1011,Sara Lee,FEMALE,25.0,,Electronics,$900,7,2024-02-18,
+1012,Ali Khan,Male,120.0,,Beauty,"$5,000",6,2024-01-15,3.2
+1013,Mike Ross,Female,120.0,,Electronics,"$2,500",5,2024-03-22,3.8
+1014,,Male,41.0,,Beauty,$80,8,2024-01-03,
+1015,Ali Khan,Female,37.0,,Electronics,$900,2,2024-03-03,4.5
+1016,,Female,,Bukhara,Other,$80,10,2024-02-24,4.9
+1017,Anna Kim,FEMALE,,,Furniture,$15,2,2024-02-01,
+1018,John Doe,Female,120.0,Tashkent,Electronics,$50,1,2024-01-30,2.7
+1019,,Female,39.0,Bukhara,Furniture,$900,4,2024-03-10,
+1020,John Doe,Male,,Tashkent,Furniture,$80,6,2024-02-24,3.5
+1021,Vali Aliyev,Male,120.0,Khiva,Beauty,$15,2,2024-02-01,
+1022,Mike Ross,FEMALE,45.0,Samarkand,Electronics,$80,8,2024-03-11,2.7
+1023,Bob Lee,FEMALE,33.0,Khiva,Clothing,$50,7,2024-01-08,2.9
+1024,Mike Ross,FEMALE,,,Furniture,"$2,500",3,2024-01-25,3.2
+1025,Anna Kim,Male,52.0,Tashkent,Other,"$5,000",8,2024-03-05,4.8
+1026,Sara Lee,Male,50.0,,Electronics,$50,4,2024-02-21,2.8
+1027,Vali Aliyev,FEMALE,56.0,,Other,"$5,000",9,2024-02-10,4.8
+1028,Mike Ross,FEMALE,38.0,Samarkand,Beauty,$15,8,2024-02-10,4.8
+1029,Vali Aliyev,Male,120.0,,Clothing,$50,9,2024-02-03,
+1030,Mike Ross,Female,,Khiva,Other,$50,5,2024-03-19,5.0
+1031,Vali Aliyev,Female,,Bukhara,Electronics,$15,2,2024-03-11,
+1032,Anna Kim,Female,120.0,Bukhara,Other,"$5,000",8,2024-02-02,4.8
+1033,Mike Ross,Male,,Tashkent,Beauty,$50,3,2024-03-22,4.9
+1034,Bob Lee,Male,120.0,Tashkent,Electronics,$15,3,2024-03-10,
+1035,Bob Lee,Female,53.0,Tashkent,Beauty,"$5,000",6,2024-01-06,4.7
+1036,Vali Aliyev, male ,120.0,,Furniture,$15,10,2024-01-20,4.8
+1037,Bob Lee,Male,28.0,Samarkand,Beauty,$900,7,2024-03-26,4.7
+1038,Vali Aliyev,FEMALE,120.0,Tashkent,Furniture,"$1,200",4,2024-01-26,
+1039,John Doe,Male,37.0,Samarkand,Furniture,"$1,200",6,2024-02-05,
+1040,Bob Lee, male ,120.0,Tashkent,Electronics,"$1,200",5,2024-01-23,
+1041,Bob Lee, male ,120.0,Bukhara,Furniture,$50,10,2024-03-06,2.8
+1042,Bob Lee,Male,120.0,,Other,"$1,200",4,2024-02-16,
+1043,Vali Aliyev, male ,120.0,,Beauty,"$5,000",7,2024-02-11,
+1044,Bob Lee,FEMALE,26.0,Samarkand,Other,"$5,000",10,2024-02-08,3.5
+1045,Bob Lee, male ,36.0,Khiva,Furniture,"$1,200",8,2024-03-27,
+1046,Vali Aliyev, male ,120.0,,Other,$900,6,2024-01-12,4.5
+1047,John Doe,Female,37.0,Tashkent,Electronics,$15,4,2024-03-01,4.0
+1048,John Doe,FEMALE,120.0,Khiva,Furniture,"$2,500",4,2024-01-19,4.1
+1049,John Doe,Female,,,Furniture,$900,1,2024-03-12,3.1
+1050,, male ,,Khiva,Other,"$2,500",9,2024-02-24,
+1051,Mike Ross,Female,,Bukhara,Other,$80,8,2024-03-21,
+1052,Mike Ross, male ,36.0,Bukhara,Other,$50,2,2024-01-18,
+1053,John Doe,Male,120.0,Khiva,Furniture,$15,6,2024-03-10,3.7
+1054,Ali Khan,FEMALE,,Khiva,Electronics,$80,6,2024-02-08,
+1055,John Doe,FEMALE,120.0,Samarkand,Beauty,"$5,000",7,2024-03-03,
+1056,Sara Lee,FEMALE,120.0,Samarkand,Other,$15,9,2024-01-04,4.8
+1057,Sara Lee,FEMALE,,Samarkand,Electronics,$50,5,2024-02-18,
+1058,Mike Ross,FEMALE,,Bukhara,Electronics,"$1,200",8,2024-01-03,4.4
+1059,Vali Aliyev,Male,120.0,Tashkent,Clothing,"$1,200",4,2024-01-03,4.1
+1060,Vali Aliyev,Female,120.0,Khiva,Beauty,$80,6,2024-01-22,4.0
+1061,Vali Aliyev,Male,,Bukhara,Other,$900,7,2024-02-20,4.9
+1062,John Doe,Male,120.0,Bukhara,Other,$50,2,2024-03-13,
+1063,Anna Kim,Male,120.0,,Beauty,"$5,000",1,2024-02-23,4.6
+1064,Alice Wong,Female,120.0,Khiva,Clothing,"$2,500",9,2024-03-24,
+1065,Mike Ross, male ,120.0,Samarkand,Electronics,"$2,500",5,2024-02-27,
+1066,Bob Lee, male ,120.0,Tashkent,Furniture,"$5,000",6,2024-01-24,
+1067,Mike Ross, male ,,,Electronics,$900,9,2024-01-25,
+1068,Alice Wong,FEMALE,53.0,Khiva,Electronics,"$2,500",2,2024-02-07,3.1
+1069,Anna Kim,FEMALE,120.0,,Other,"$1,200",6,2024-02-24,
+1070,Mike Ross, male ,,Samarkand,Electronics,"$1,200",4,2024-02-10,2.8
+1071,Alice Wong, male ,120.0,,Other,$80,10,2024-02-06,5.0
+1072,Sara Lee, male ,,Tashkent,Other,"$1,200",3,2024-02-05,2.6
+1073,Sara Lee,FEMALE,120.0,Tashkent,Electronics,"$5,000",10,2024-02-06,
+1074,Mike Ross,FEMALE,29.0,Tashkent,Electronics,"$1,200",7,2024-03-03,2.7
+1075,Mike Ross,Male,120.0,Samarkand,Electronics,$80,9,2024-02-23,4.0
+1076,Alice Wong,FEMALE,,Bukhara,Other,$900,7,2024-02-09,3.9
+1077,John Doe, male ,24.0,Tashkent,Clothing,"$5,000",4,2024-01-23,3.9
+1078,Alice Wong, male ,,Tashkent,Clothing,$50,5,2024-03-31,
+1079,John Doe,FEMALE,,Tashkent,Other,$50,4,2024-03-23,
+1080,Ali Khan,Female,27.0,Bukhara,Other,$900,10,2024-02-06,
+1081,Bob Lee, male ,120.0,,Other,$15,8,2024-02-26,2.7
+1082,Mike Ross,Male,120.0,Tashkent,Clothing,"$2,500",10,2024-03-16,
+1083,Alice Wong,FEMALE,20.0,Bukhara,Clothing,"$5,000",10,2024-02-25,
+1084,Bob Lee, male ,,Bukhara,Electronics,$50,3,2024-02-12,
+1085,,Male,,Khiva,Electronics,"$1,200",6,2024-02-02,
+1086,,FEMALE,50.0,Khiva,Electronics,$900,4,2024-03-07,
+1087,John Doe, male ,46.0,,Clothing,$15,5,2024-02-26,
+1088,John Doe,Female,120.0,Bukhara,Other,$50,1,2024-03-11,3.5
+1089,Vali Aliyev,Female,,Khiva,Beauty,$900,9,2024-03-31,
+1090,,Female,,Khiva,Clothing,"$2,500",10,2024-03-06,4.4
+1091,Bob Lee, male ,,,Beauty,$900,1,2024-02-06,
+1092,,FEMALE,,Bukhara,Beauty,$900,9,2024-03-10,
+1093,John Doe,FEMALE,120.0,Samarkand,Furniture,$900,1,2024-02-10,
+1094,Sara Lee,FEMALE,120.0,Tashkent,Clothing,"$2,500",9,2024-03-16,3.3
+1095,,FEMALE,46.0,Tashkent,Clothing,$900,7,2024-03-24,4.9
+1096,Bob Lee,Male,,Bukhara,Other,"$2,500",7,2024-02-10,
+1097,Vali Aliyev,Female,52.0,Bukhara,Clothing,$900,2,2024-02-25,4.9
+1098,Mike Ross,Male,120.0,Tashkent,Beauty,"$2,500",1,2024-02-07,
+1099,Bob Lee,Female,120.0,Samarkand,Clothing,$80,2,2024-03-19,4.7
+1100,John Doe,FEMALE,55.0,Bukhara,Furniture,"$2,500",5,2024-03-26,
+1101,Vali Aliyev,FEMALE,52.0,Bukhara,Other,"$1,200",5,2024-03-22,
+1102,Bob Lee,FEMALE,37.0,Tashkent,Clothing,"$2,500",7,2024-03-14,
+1103,Bob Lee, male ,36.0,Tashkent,Other,$15,1,2024-03-18,
+1104,Anna Kim,Female,120.0,Samarkand,Other,$900,5,2024-03-27,4.4
+1105,Ali Khan, male ,120.0,Khiva,Electronics,$15,10,2024-02-16,4.3
+1106,Bob Lee,Female,120.0,Samarkand,Clothing,"$1,200",9,2024-02-16,
+1107,Alice Wong, male ,,Bukhara,Electronics,$900,8,2024-01-10,2.9
+1108,Anna Kim,Male,120.0,Khiva,Electronics,$900,5,2024-03-09,
+1109,Bob Lee, male ,120.0,Tashkent,Clothing,$15,8,2024-01-04,
+1110,Vali Aliyev,FEMALE,120.0,Bukhara,Furniture,"$5,000",2,2024-01-18,2.6
+1111,Vali Aliyev,Female,49.0,,Clothing,"$1,200",7,2024-02-28,
+1112,Vali Aliyev,FEMALE,,,Furniture,"$5,000",5,2024-01-05,4.2
+1113,Anna Kim,Male,46.0,Bukhara,Other,"$2,500",6,2024-01-08,3.5
+1114,John Doe,Male,47.0,Tashkent,Beauty,$50,4,2024-01-17,4.5
+1115,John Doe,Female,53.0,Bukhara,Clothing,$50,10,2024-01-01,3.2
+1116,Sara Lee,Male,,Tashkent,Clothing,$80,1,2024-02-15,4.5
+1117,Sara Lee, male ,38.0,Tashkent,Clothing,"$5,000",7,2024-03-08,2.8
+1118,,Male,,Khiva,Other,"$2,500",4,2024-03-19,
+1119,Ali Khan,FEMALE,59.0,Khiva,Furniture,"$2,500",2,2024-03-03,
+1120,Sara Lee,Male,,Samarkand,Beauty,$50,10,2024-03-22,
+1121,Mike Ross,FEMALE,120.0,,Other,"$2,500",7,2024-01-13,4.5
+1122,,Female,120.0,Khiva,Furniture,$900,4,2024-02-22,
+1123,Vali Aliyev, male ,120.0,Khiva,Beauty,"$2,500",5,2024-02-17,
+1124,Vali Aliyev,FEMALE,23.0,Tashkent,Beauty,$50,3,2024-03-12,
+1125,Anna Kim,FEMALE,,Tashkent,Beauty,$15,10,2024-02-09,3.4
+1126,John Doe,Male,,Bukhara,Other,$80,6,2024-01-15,4.4
+1127,,Male,120.0,,Beauty,$900,1,2024-01-24,
+1128,Sara Lee,Female,40.0,,Furniture,"$1,200",2,2024-01-19,4.4
+1129,Bob Lee,FEMALE,51.0,Khiva,Beauty,$50,3,2024-02-17,
+1130,Vali Aliyev,Male,120.0,Samarkand,Clothing,$900,10,2024-01-07,
+1131,Alice Wong,FEMALE,,Khiva,Beauty,"$2,500",4,2024-03-06,
+1132,Alice Wong, male ,120.0,Tashkent,Clothing,$50,7,2024-03-17,2.6
+1133,Mike Ross, male ,31.0,Bukhara,Electronics,"$1,200",1,2024-03-04,4.4
+1134,John Doe, male ,120.0,Tashkent,Furniture,$80,1,2024-02-25,2.5
+1135,Bob Lee,FEMALE,120.0,Khiva,Beauty,$900,2,2024-02-21,
+1136,Anna Kim,Male,,Khiva,Electronics,$80,4,2024-02-25,4.0
+1137,Anna Kim,Female,120.0,Bukhara,Clothing,"$2,500",2,2024-03-06,4.1
+1138,Sara Lee,Female,,Tashkent,Clothing,$900,5,2024-01-26,2.9
+1139,Sara Lee,FEMALE,59.0,Khiva,Other,$900,10,2024-02-27,
+1140,Sara Lee,FEMALE,,Tashkent,Furniture,$900,8,2024-03-21,
+1141,,Male,,Bukhara,Furniture,"$5,000",8,2024-01-05,
+1142,,FEMALE,59.0,Khiva,Other,$50,9,2024-01-06,3.6
+1143,,Female,,Tashkent,Furniture,"$1,200",2,2024-02-13,5.0
+1144,Ali Khan,Female,59.0,Khiva,Furniture,"$5,000",9,2024-03-07,
+1145,Bob Lee, male ,,,Electronics,"$1,200",6,2024-01-09,
+1146,Sara Lee, male ,120.0,Tashkent,Other,"$1,200",3,2024-02-14,
+1147,Vali Aliyev, male ,120.0,,Furniture,$80,6,2024-01-17,4.2
+1148,, male ,,Tashkent,Beauty,$15,5,2024-01-24,
+1149,John Doe,Female,49.0,Samarkand,Electronics,$900,5,2024-01-13,3.8
+1150,Sara Lee,FEMALE,120.0,Samarkand,Clothing,$15,3,2024-03-29,4.4
+1151,Bob Lee, male ,46.0,Samarkand,Furniture,$15,10,2024-02-06,
+1152,Mike Ross,FEMALE,52.0,Samarkand,Beauty,$80,10,2024-02-26,
+1153,,FEMALE,120.0,Samarkand,Clothing,$900,10,2024-01-18,4.7
+1154,,Male,,,Electronics,$15,5,2024-01-11,
+1155,Bob Lee,Male,50.0,Samarkand,Furniture,"$2,500",6,2024-01-04,
+1156,Bob Lee,Male,41.0,Bukhara,Clothing,"$5,000",1,2024-02-10,
+1157,Ali Khan, male ,27.0,Khiva,Clothing,$900,8,2024-02-27,4.0
+1158,Sara Lee,FEMALE,34.0,Tashkent,Beauty,$50,4,2024-02-08,2.8
+1159,Alice Wong,Male,120.0,Tashkent,Furniture,"$2,500",10,2024-03-09,2.5
+1160,Bob Lee,Male,,,Beauty,$15,4,2024-03-14,3.5
+1161,,Male,41.0,Khiva,Furniture,"$5,000",1,2024-03-22,
+1162,Vali Aliyev, male ,,Samarkand,Electronics,"$1,200",10,2024-02-12,
+1163,Sara Lee,FEMALE,120.0,Khiva,Clothing,"$5,000",3,2024-01-09,
+1164,Ali Khan,Female,36.0,Tashkent,Beauty,$50,5,2024-03-06,
+1165,John Doe, male ,120.0,Bukhara,Electronics,"$1,200",6,2024-02-04,
+1166,Alice Wong,FEMALE,120.0,Bukhara,Clothing,"$2,500",8,2024-03-29,
+1167,Bob Lee,Male,120.0,Khiva,Other,$900,3,2024-03-10,3.2
+1168,Mike Ross, male ,120.0,Khiva,Other,$50,7,2024-01-22,
+1169,Anna Kim,FEMALE,120.0,Bukhara,Electronics,"$2,500",2,2024-03-26,
+1170,Sara Lee,FEMALE,28.0,Tashkent,Clothing,"$5,000",2,2024-01-31,
+1171,Ali Khan,Female,120.0,Khiva,Beauty,"$1,200",6,2024-02-26,4.4
+1172,Anna Kim, male ,,Samarkand,Electronics,"$5,000",1,2024-01-24,
+1173,Mike Ross,FEMALE,,Samarkand,Other,"$5,000",5,2024-03-29,
+1174,Vali Aliyev,FEMALE,25.0,Samarkand,Furniture,$80,2,2024-03-28,
+1175,Vali Aliyev, male ,120.0,Bukhara,Clothing,$15,3,2024-02-16,3.8
+1176,Alice Wong,Male,26.0,Bukhara,Other,$80,10,2024-02-17,3.7
+1177,Mike Ross,FEMALE,23.0,Khiva,Other,"$5,000",7,2024-02-22,4.6
+1178,Vali Aliyev,FEMALE,120.0,Khiva,Other,$80,6,2024-01-17,4.7
+1179,,Male,,Tashkent,Other,$900,3,2024-02-08,
+1180,, male ,,Tashkent,Beauty,$15,4,2024-03-22,
+1181,,Male,,,Clothing,$80,10,2024-03-15,
+1182,Ali Khan,Male,54.0,Tashkent,Other,$900,5,2024-03-24,
+1183,Alice Wong, male ,58.0,Bukhara,Furniture,"$5,000",4,2024-03-28,
+1184,Alice Wong,FEMALE,21.0,Khiva,Furniture,$50,4,2024-02-13,
+1185,Anna Kim,FEMALE,120.0,Samarkand,Beauty,$900,9,2024-03-12,2.8
+1186,Alice Wong,Female,,Samarkand,Electronics,"$2,500",1,2024-02-07,
+1187,Anna Kim,Female,,Samarkand,Furniture,$80,9,2024-02-29,
+1188,Bob Lee,FEMALE,19.0,Samarkand,Clothing,"$2,500",10,2024-02-15,
+1189,Alice Wong, male ,120.0,,Electronics,"$2,500",2,2024-02-25,
+1190,Anna Kim,Male,,Khiva,Electronics,$15,10,2024-03-12,
+1191,Alice Wong, male ,120.0,,Other,$50,2,2024-01-17,
+1192,Anna Kim,Female,120.0,Samarkand,Other,"$1,200",9,2024-02-21,3.8
+1193,Anna Kim,FEMALE,120.0,,Furniture,$50,3,2024-03-18,4.7
+1194,Sara Lee,FEMALE,,,Beauty,"$1,200",10,2024-02-13,
+1195,Alice Wong,Male,,Bukhara,Beauty,$15,2,2024-02-23,4.0
+1196,John Doe,Male,,,Furniture,"$5,000",3,2024-03-08,
+1197,Vali Aliyev,Female,33.0,Tashkent,Furniture,$80,6,2024-02-23,2.9
+1198,Alice Wong,Male,120.0,Samarkand,Other,"$2,500",4,2024-03-12,
+1199,Sara Lee,FEMALE,,,Beauty,"$5,000",9,2024-02-15,
+1200,John Doe, male ,48.0,,Beauty,"$5,000",4,2024-02-08,4.4
+1201,Alice Wong, male ,,,Beauty,$15,5,2024-01-16,
+1202,Mike Ross,Male,40.0,Bukhara,Electronics,"$2,500",6,2024-02-26,
+1203,Mike Ross, male ,120.0,Samarkand,Electronics,$80,10,2024-03-16,3.1
+1204,John Doe,Male,51.0,Tashkent,Furniture,$15,6,2024-03-01,2.8
+1205,Bob Lee,FEMALE,53.0,Khiva,Clothing,$50,5,2024-02-11,3.2
+1206,John Doe,Male,120.0,Samarkand,Furniture,$900,3,2024-01-05,
+1207,Mike Ross,Male,49.0,Tashkent,Beauty,$900,10,2024-03-18,
+1208,,FEMALE,120.0,Samarkand,Other,"$1,200",8,2024-02-04,3.0
+1209,Alice Wong, male ,120.0,Samarkand,Electronics,"$1,200",6,2024-02-07,3.9
+1210,Bob Lee,FEMALE,120.0,,Beauty,$80,2,2024-02-21,4.2
+1211,John Doe,Male,,Bukhara,Furniture,$80,4,2024-02-27,
+1212,Ali Khan, male ,120.0,Bukhara,Clothing,"$1,200",1,2024-03-26,
+1213,, male ,120.0,Tashkent,Beauty,$80,6,2024-03-19,3.1
+1214,Anna Kim,FEMALE,,,Furniture,"$2,500",9,2024-03-26,4.6
+1215,,FEMALE,56.0,,Beauty,$15,2,2024-03-13,2.8
+1216,Sara Lee, male ,52.0,,Furniture,"$5,000",2,2024-03-28,
+1217,Ali Khan,FEMALE,,Samarkand,Other,$50,7,2024-02-28,
+1218,Ali Khan,FEMALE,120.0,Bukhara,Electronics,$15,4,2024-03-15,
+1219,Ali Khan,Male,120.0,Khiva,Electronics,"$1,200",5,2024-02-22,2.9
+1220,Bob Lee, male ,120.0,Khiva,Furniture,$900,7,2024-02-18,2.7
+1221,Sara Lee,FEMALE,40.0,,Clothing,$15,4,2024-01-01,
+1222,,FEMALE,,Samarkand,Clothing,"$2,500",8,2024-02-14,2.9
+1223,Bob Lee,Male,25.0,Samarkand,Clothing,$15,2,2024-01-13,
+1224,Ali Khan,FEMALE,21.0,Khiva,Clothing,"$5,000",9,2024-01-28,4.4
+1225,John Doe, male ,,,Other,$80,6,2024-01-31,3.3
+1226,Bob Lee, male ,51.0,Bukhara,Electronics,$15,9,2024-03-16,4.7
+1227,Alice Wong,Male,120.0,Bukhara,Furniture,$15,9,2024-02-10,
+1228,Sara Lee,FEMALE,,Samarkand,Clothing,$80,5,2024-03-31,
+1229,Bob Lee,Female,,Khiva,Clothing,$50,5,2024-01-27,3.3
+1230,,Female,41.0,Tashkent,Beauty,"$2,500",7,2024-03-27,4.0
+1231,,Female,22.0,Khiva,Clothing,$900,6,2024-02-08,4.9
+1232,Vali Aliyev,FEMALE,120.0,Samarkand,Other,$80,4,2024-02-20,
+1233,Alice Wong, male ,,Bukhara,Beauty,$900,6,2024-03-06,
+1234,John Doe, male ,,Bukhara,Furniture,$50,1,2024-03-13,4.7
+1235,Bob Lee, male ,120.0,Samarkand,Clothing,$50,6,2024-01-30,3.4
+1236,Anna Kim, male ,120.0,Khiva,Furniture,"$2,500",8,2024-01-22,
+1237,,FEMALE,120.0,Samarkand,Other,$80,1,2024-03-08,2.6
+1238,Ali Khan,FEMALE,60.0,Samarkand,Clothing,$900,2,2024-03-31,2.9
+1239,Ali Khan,FEMALE,,Khiva,Electronics,"$5,000",1,2024-03-09,3.9
+1240,Mike Ross, male ,120.0,Tashkent,Other,$50,7,2024-01-23,2.8
+1241,John Doe, male ,27.0,Bukhara,Beauty,"$5,000",7,2024-01-11,
+1242,John Doe, male ,54.0,Tashkent,Electronics,"$2,500",2,2024-02-21,
+1243,Sara Lee,Male,58.0,Khiva,Furniture,$50,6,2024-03-13,4.9
+1244,John Doe,FEMALE,20.0,Bukhara,Electronics,"$5,000",2,2024-03-28,4.8
+1245,John Doe,Female,38.0,Khiva,Electronics,$80,5,2024-01-21,
+1246,Bob Lee,Female,,Tashkent,Other,$15,6,2024-01-07,2.7
+1247,Bob Lee, male ,,Tashkent,Beauty,$900,8,2024-03-03,
+1248,Bob Lee,Male,120.0,,Beauty,"$2,500",4,2024-01-10,2.7
+1249,Bob Lee, male ,58.0,Bukhara,Electronics,"$2,500",2,2024-01-01,
+1250,Sara Lee,Male,35.0,Samarkand,Furniture,"$1,200",8,2024-03-12,
+1251,Anna Kim,Male,19.0,,Other,$50,6,2024-02-19,
+1252,,Female,120.0,,Other,"$2,500",3,2024-03-28,3.5
+1253,Alice Wong,Female,,Tashkent,Clothing,"$1,200",7,2024-02-05,
+1254,Mike Ross,Female,,Khiva,Other,$900,10,2024-01-26,3.6
+1255,Anna Kim,FEMALE,,Bukhara,Furniture,"$1,200",6,2024-02-25,4.5
+1256,John Doe,FEMALE,120.0,Bukhara,Clothing,"$1,200",7,2024-02-10,
+1257,Bob Lee, male ,,Khiva,Beauty,"$5,000",2,2024-03-13,3.0
+1258,Alice Wong,Female,53.0,Khiva,Beauty,$15,2,2024-02-22,4.2
+1259,Mike Ross,Female,37.0,Khiva,Furniture,$15,2,2024-02-27,
+1260,,FEMALE,120.0,,Electronics,"$5,000",6,2024-03-30,4.7
+1261,Anna Kim,Female,120.0,,Electronics,$50,10,2024-03-23,
+1262,Vali Aliyev,Male,,Tashkent,Beauty,$900,4,2024-03-06,4.4
+1263,Alice Wong,Female,,Bukhara,Electronics,"$2,500",8,2024-01-14,3.2
+1264,Mike Ross, male ,,Khiva,Clothing,$50,9,2024-03-02,3.4
+1265,Vali Aliyev, male ,,Tashkent,Electronics,"$2,500",1,2024-02-13,4.1
+1266,Sara Lee,Female,120.0,Bukhara,Other,$15,7,2024-02-29,
+1267,Bob Lee,FEMALE,29.0,Tashkent,Other,$15,4,2024-02-27,
+1268,Mike Ross,Male,31.0,,Electronics,$50,9,2024-01-24,3.4
+1269,Alice Wong, male ,,,Furniture,"$2,500",10,2024-02-20,
+1270,Sara Lee, male ,120.0,,Other,"$1,200",2,2024-03-27,2.8
+1271,Sara Lee, male ,37.0,Samarkand,Other,$80,7,2024-02-23,
+1272,,Female,,,Clothing,"$2,500",8,2024-02-06,
+1273,Ali Khan, male ,120.0,Tashkent,Furniture,$900,3,2024-01-25,
+1274,Alice Wong,FEMALE,,Samarkand,Electronics,"$2,500",10,2024-01-04,4.5
+1275,John Doe, male ,,Samarkand,Furniture,"$1,200",10,2024-03-04,3.9
+1276,, male ,,,Electronics,"$5,000",8,2024-03-10,
+1277,Mike Ross,Male,59.0,Khiva,Beauty,$50,6,2024-01-12,3.6
+1278,Anna Kim,FEMALE,33.0,Samarkand,Other,$900,3,2024-01-27,4.5
+1279,Mike Ross,Female,120.0,Bukhara,Beauty,"$5,000",5,2024-03-14,3.2
+1280,Mike Ross,Female,44.0,Samarkand,Clothing,$80,3,2024-02-11,
+1281,Mike Ross,FEMALE,120.0,Khiva,Furniture,"$2,500",2,2024-03-22,4.5
+1282,Mike Ross, male ,120.0,Khiva,Furniture,"$2,500",6,2024-03-15,2.5
+1283,Anna Kim,Male,120.0,,Furniture,$15,4,2024-02-24,
+1284,Anna Kim,Female,,,Furniture,"$1,200",6,2024-03-28,4.4
+1285,Ali Khan,Male,,Samarkand,Furniture,$50,8,2024-01-01,
+1286,Mike Ross,Female,120.0,Bukhara,Electronics,$80,6,2024-02-02,2.7
+1287,Mike Ross,Female,120.0,Khiva,Electronics,$50,2,2024-01-01,3.0
+1288,,FEMALE,55.0,Tashkent,Electronics,$80,6,2024-01-16,
+1289,Vali Aliyev,Female,,Khiva,Electronics,$15,2,2024-01-14,
+1290,Sara Lee,Male,42.0,,Other,$80,1,2024-03-19,
+1291,Sara Lee,FEMALE,120.0,,Furniture,"$1,200",4,2024-01-12,4.7
+1292,Bob Lee, male ,120.0,Khiva,Beauty,$900,3,2024-02-01,3.2
+1293,Mike Ross,Male,120.0,Bukhara,Clothing,$80,9,2024-03-18,
+1294,John Doe,FEMALE,59.0,Khiva,Electronics,"$1,200",4,2024-03-04,4.1
+1295,Anna Kim,Female,,Khiva,Other,"$5,000",7,2024-02-16,3.9
+1296,Ali Khan,Male,48.0,Tashkent,Beauty,$900,4,2024-01-06,
+1297,,FEMALE,120.0,Khiva,Furniture,"$5,000",2,2024-03-22,3.8
+1298,Vali Aliyev,Female,,Samarkand,Other,"$1,200",6,2024-02-20,4.0
+1299,John Doe,Male,120.0,Samarkand,Electronics,"$1,200",7,2024-01-15,3.6
+1300,Sara Lee,Male,120.0,Tashkent,Clothing,"$1,200",1,2024-01-21,
+1301,Mike Ross,Female,120.0,Bukhara,Clothing,"$5,000",5,2024-01-16,4.4
+1302,,Male,,Bukhara,Other,"$1,200",2,2024-03-04,
+1303,Sara Lee, male ,120.0,Samarkand,Beauty,$50,2,2024-03-14,4.2
+1304,Ali Khan,Male,50.0,Samarkand,Electronics,$80,8,2024-02-16,3.5
+1305,Bob Lee,Female,120.0,Bukhara,Clothing,$80,7,2024-02-10,3.2
+1306,,Male,41.0,Samarkand,Clothing,"$5,000",9,2024-01-06,4.9
+1307,Anna Kim,Male,,,Furniture,"$2,500",1,2024-02-17,
+1308,Alice Wong, male ,57.0,,Furniture,$15,4,2024-03-10,4.4
+1309,Ali Khan,Female,,,Beauty,$80,1,2024-02-12,
+1310,John Doe,Female,37.0,Khiva,Furniture,$900,1,2024-01-19,4.3
+1311,Bob Lee, male ,120.0,Khiva,Electronics,$50,10,2024-01-13,
+1312,Ali Khan,FEMALE,120.0,Samarkand,Clothing,$50,5,2024-02-03,
+1313,Alice Wong, male ,,Samarkand,Electronics,$15,4,2024-01-18,4.4
+1314,Alice Wong,FEMALE,24.0,Bukhara,Furniture,$80,2,2024-03-09,3.4
+1315,Mike Ross,Male,,Tashkent,Clothing,"$2,500",5,2024-03-31,4.2
+1316,Vali Aliyev,Female,38.0,Bukhara,Furniture,$80,9,2024-01-07,
+1317,Bob Lee,FEMALE,29.0,,Other,$900,4,2024-01-13,3.7
+1318,John Doe,Female,18.0,Samarkand,Furniture,$50,6,2024-03-28,4.1
+1319,Vali Aliyev,Male,,Tashkent,Clothing,"$5,000",8,2024-01-17,
+1320,Ali Khan,Female,,,Furniture,$50,7,2024-03-04,
+1321,Sara Lee, male ,40.0,Bukhara,Furniture,$80,3,2024-01-05,4.0
+1322,Bob Lee,FEMALE,,Tashkent,Electronics,$15,5,2024-02-19,2.8
+1323,,Male,51.0,Khiva,Beauty,$15,8,2024-03-10,
+1324,Bob Lee, male ,,Samarkand,Electronics,"$5,000",6,2024-03-17,
+1325,Anna Kim,Female,120.0,Samarkand,Electronics,$50,4,2024-03-25,3.1
+1326,Bob Lee, male ,120.0,Samarkand,Clothing,$900,4,2024-03-16,
+1327,Anna Kim,Female,120.0,,Clothing,"$5,000",8,2024-03-10,
+1328,John Doe,Female,23.0,Tashkent,Other,$50,8,2024-01-01,3.3
+1329,Sara Lee, male ,,Tashkent,Electronics,$900,3,2024-03-16,4.3
+1330,Anna Kim,Male,120.0,Bukhara,Furniture,$900,10,2024-01-13,
+1331,Bob Lee,FEMALE,120.0,Bukhara,Clothing,$80,9,2024-03-29,
+1332,Sara Lee,FEMALE,120.0,Bukhara,Beauty,$80,3,2024-01-23,
+1333,Sara Lee, male ,54.0,,Clothing,$900,10,2024-01-14,4.8
+1334,Anna Kim, male ,22.0,Samarkand,Electronics,"$1,200",6,2024-02-27,2.5
+1335,Mike Ross,Male,,Tashkent,Electronics,$80,7,2024-02-26,4.3
+1336,Anna Kim,FEMALE,,Tashkent,Furniture,"$2,500",10,2024-03-24,4.4
+1337,Ali Khan, male ,46.0,Tashkent,Beauty,$80,5,2024-01-14,2.7
+1338,Vali Aliyev,Male,120.0,Bukhara,Other,"$2,500",10,2024-03-02,
+1339,Bob Lee,Female,120.0,Tashkent,Electronics,$15,6,2024-01-27,
+1340,, male ,120.0,Bukhara,Beauty,$15,4,2024-01-13,
+1341,Ali Khan,FEMALE,,Tashkent,Beauty,$80,10,2024-03-02,3.0
+1342,Mike Ross,Male,120.0,Khiva,Electronics,$80,5,2024-02-20,
+1343,Bob Lee,Female,120.0,Bukhara,Furniture,$50,6,2024-01-24,
+1344,John Doe, male ,,,Electronics,"$2,500",3,2024-03-30,4.2
+1345,Bob Lee,Female,120.0,,Electronics,$15,7,2024-03-07,
+1346,Mike Ross,Male,,Khiva,Electronics,"$5,000",9,2024-03-14,4.8
+1347,Sara Lee,Female,46.0,Samarkand,Clothing,$50,1,2024-02-24,
+1348,Mike Ross, male ,58.0,Tashkent,Electronics,$80,7,2024-03-12,
+1349,Alice Wong,Male,120.0,,Other,$900,9,2024-02-23,2.8
+1350,Vali Aliyev,Male,120.0,,Electronics,$80,5,2024-03-09,
+1351,Alice Wong,FEMALE,120.0,Tashkent,Clothing,"$1,200",5,2024-02-21,
+1352,John Doe,Male,,Khiva,Beauty,$50,6,2024-01-03,
+1353,Vali Aliyev,Female,,Samarkand,Beauty,"$1,200",8,2024-02-11,
+1354,John Doe,FEMALE,59.0,Samarkand,Furniture,"$5,000",8,2024-03-07,4.7
+1355,Mike Ross,FEMALE,28.0,Samarkand,Other,"$5,000",10,2024-01-04,2.9
+1356,Ali Khan,FEMALE,21.0,Tashkent,Beauty,$900,4,2024-02-05,
+1357,Vali Aliyev,Male,120.0,Samarkand,Beauty,"$5,000",8,2024-03-17,
+1358,Anna Kim,Female,,Bukhara,Electronics,"$5,000",5,2024-01-04,3.5
+1359,John Doe,Female,54.0,Samarkand,Beauty,$900,7,2024-03-06,2.6
+1360,Sara Lee,Male,120.0,Samarkand,Beauty,"$2,500",10,2024-02-09,
+1361,Alice Wong, male ,,Samarkand,Furniture,"$2,500",5,2024-03-27,
+1362,, male ,24.0,,Other,"$5,000",10,2024-02-06,3.2
+1363,Mike Ross, male ,,Bukhara,Beauty,"$2,500",5,2024-01-25,2.9
+1364,Anna Kim,Female,,Tashkent,Furniture,$50,5,2024-02-03,
+1365,John Doe, male ,120.0,Samarkand,Other,"$2,500",8,2024-03-26,
+1366,,Female,120.0,Bukhara,Electronics,$900,8,2024-01-17,4.4
+1367,Vali Aliyev,Female,120.0,Bukhara,Clothing,$15,5,2024-02-23,
+1368,Mike Ross,FEMALE,120.0,Tashkent,Furniture,"$1,200",1,2024-03-22,4.0
+1369,Vali Aliyev,FEMALE,120.0,,Beauty,"$2,500",7,2024-01-07,4.7
+1370,Bob Lee,FEMALE,,Samarkand,Beauty,$80,3,2024-01-11,3.7
+1371,Ali Khan,FEMALE,58.0,Bukhara,Clothing,"$1,200",3,2024-03-14,
+1372,Bob Lee,FEMALE,23.0,Khiva,Furniture,$900,8,2024-02-19,2.5
+1373,Anna Kim,Female,41.0,Tashkent,Electronics,$15,4,2024-01-29,
+1374,Bob Lee, male ,26.0,Samarkand,Electronics,"$1,200",1,2024-02-08,
+1375,, male ,120.0,Khiva,Clothing,$15,6,2024-03-03,3.4
+1376,John Doe,Female,43.0,Samarkand,Clothing,$80,1,2024-03-16,3.8
+1377,Bob Lee, male ,59.0,,Other,"$1,200",1,2024-03-17,5.0
+1378,Vali Aliyev,FEMALE,19.0,Khiva,Furniture,$15,2,2024-03-11,3.1
+1379,Mike Ross,FEMALE,58.0,Tashkent,Other,$80,5,2024-03-20,4.0
+1380,Vali Aliyev, male ,120.0,Tashkent,Electronics,"$2,500",8,2024-01-26,
+1381,Anna Kim,FEMALE,51.0,Bukhara,Clothing,$900,1,2024-03-11,3.7
+1382,John Doe,Male,,Tashkent,Electronics,$15,2,2024-03-14,4.2
+1383,Vali Aliyev, male ,50.0,Samarkand,Furniture,$50,5,2024-02-03,3.7
+1384,Mike Ross, male ,29.0,Bukhara,Furniture,$900,2,2024-01-13,4.6
+1385,Sara Lee, male ,120.0,Bukhara,Furniture,$50,10,2024-02-04,4.7
+1386,Vali Aliyev,FEMALE,39.0,Khiva,Furniture,"$1,200",5,2024-02-19,
+1387,Sara Lee,Male,120.0,Samarkand,Electronics,$900,3,2024-01-14,
+1388,Alice Wong,Female,120.0,,Furniture,$900,6,2024-03-19,2.6
+1389,Bob Lee,FEMALE,49.0,Tashkent,Electronics,"$2,500",5,2024-03-24,3.3
+1390,,Male,120.0,Khiva,Clothing,$15,8,2024-02-14,
+1391,Ali Khan,Male,120.0,Samarkand,Other,$80,8,2024-03-04,4.7
+1392,John Doe, male ,,Bukhara,Electronics,$900,9,2024-01-29,
+1393,Alice Wong,FEMALE,33.0,,Furniture,"$2,500",2,2024-03-04,3.6
+1394,Vali Aliyev,FEMALE,59.0,Khiva,Electronics,"$2,500",9,2024-03-11,2.5
+1395,Mike Ross,Female,120.0,Khiva,Beauty,$900,6,2024-01-07,
+1396,Alice Wong, male ,120.0,Khiva,Electronics,"$1,200",2,2024-03-25,
+1397,, male ,,Tashkent,Electronics,"$1,200",3,2024-03-04,
+1398,John Doe,Female,120.0,Tashkent,Furniture,$50,4,2024-02-28,4.6
+1399,Bob Lee,Male,39.0,,Electronics,$15,8,2024-02-28,4.1
+1400,Ali Khan,FEMALE,120.0,,Furniture,"$2,500",9,2024-01-23,4.2
+1401,Bob Lee, male ,26.0,,Furniture,$15,7,2024-03-18,4.8
+1402,Mike Ross,FEMALE,,Samarkand,Clothing,"$1,200",7,2024-03-18,
+1403,,Female,,Samarkand,Clothing,$900,10,2024-02-07,4.2
+1404,, male ,59.0,Tashkent,Beauty,$15,9,2024-03-02,
+1405,Bob Lee,Male,,,Electronics,$15,1,2024-02-18,2.9
+1406,Mike Ross, male ,35.0,Samarkand,Electronics,$80,5,2024-01-27,4.4
+1407,,Female,46.0,,Furniture,"$1,200",4,2024-03-06,
+1408,Bob Lee,FEMALE,60.0,Khiva,Beauty,$15,9,2024-01-07,
+1409,John Doe, male ,,,Other,$80,10,2024-01-26,4.4
+1410,Vali Aliyev,Female,46.0,Samarkand,Other,"$1,200",2,2024-02-18,
+1411,Sara Lee, male ,34.0,Tashkent,Beauty,"$5,000",8,2024-03-31,4.8
+1412,Ali Khan, male ,120.0,Khiva,Other,$80,9,2024-02-15,
+1413,,Male,32.0,,Clothing,"$5,000",7,2024-03-10,3.8
+1414,Anna Kim, male ,32.0,Bukhara,Beauty,"$1,200",4,2024-03-20,3.8
+1415,Alice Wong,Female,,,Other,$50,4,2024-01-06,
+1416,Mike Ross, male ,,Tashkent,Other,"$2,500",6,2024-03-06,
+1417,John Doe, male ,,,Electronics,"$2,500",2,2024-01-22,4.9
+1418,John Doe,FEMALE,22.0,Tashkent,Clothing,$15,9,2024-03-30,
+1419,Sara Lee,Male,120.0,Khiva,Beauty,$15,1,2024-01-12,2.7
+1420,Vali Aliyev,Female,120.0,Bukhara,Furniture,$900,7,2024-02-27,
+1421,Vali Aliyev,Male,,,Electronics,"$1,200",10,2024-01-06,4.3
+1422,Mike Ross, male ,50.0,,Electronics,"$1,200",5,2024-02-26,3.5
+1423,John Doe,Female,120.0,Khiva,Other,"$2,500",5,2024-03-22,
+1424,Sara Lee,Male,120.0,Tashkent,Electronics,$50,10,2024-03-17,3.5
+1425,Anna Kim,Female,120.0,Khiva,Other,"$1,200",3,2024-01-21,
+1426,Ali Khan,FEMALE,25.0,,Electronics,$80,5,2024-03-26,2.7
+1427,Anna Kim, male ,,Samarkand,Clothing,$80,2,2024-02-06,4.0
+1428,Anna Kim, male ,,,Clothing,"$1,200",10,2024-03-13,
+1429,Anna Kim,Female,28.0,Samarkand,Furniture,"$2,500",5,2024-02-16,
+1430,Anna Kim, male ,,Khiva,Other,"$2,500",2,2024-01-23,4.1
+1431,,Female,35.0,Bukhara,Electronics,$900,2,2024-01-03,4.6
+1432,Bob Lee,Female,120.0,Tashkent,Other,$900,5,2024-03-10,
+1433,Bob Lee,Female,,,Beauty,$15,3,2024-02-29,3.8
+1434,Ali Khan,Female,120.0,,Clothing,"$2,500",9,2024-01-18,3.6
+1435,Sara Lee,FEMALE,120.0,Bukhara,Electronics,"$5,000",4,2024-03-03,
+1436,John Doe, male ,32.0,Khiva,Furniture,"$1,200",8,2024-01-06,
+1437,Mike Ross, male ,120.0,,Other,$50,10,2024-01-23,
+1438,Vali Aliyev, male ,120.0,Khiva,Clothing,"$1,200",9,2024-02-21,
+1439,Ali Khan,Female,120.0,Khiva,Clothing,"$2,500",4,2024-01-10,
+1440,Sara Lee, male ,27.0,,Electronics,$80,4,2024-02-23,4.5
+1441,John Doe,Female,,Khiva,Electronics,"$2,500",4,2024-01-06,2.8
+1442,Ali Khan,Female,120.0,Tashkent,Clothing,$80,5,2024-01-24,
+1443,Ali Khan, male ,120.0,Tashkent,Clothing,"$5,000",8,2024-03-18,
+1444,Sara Lee,Female,,,Other,$80,5,2024-01-22,
+1445,Vali Aliyev,Female,120.0,Khiva,Furniture,"$2,500",3,2024-01-14,
+1446,Vali Aliyev,Female,120.0,Khiva,Other,$900,10,2024-01-05,4.7
+1447,Sara Lee,Male,120.0,Khiva,Other,$50,7,2024-02-17,
+1448,Anna Kim,Male,,Khiva,Clothing,$80,5,2024-03-02,4.4
+1449,Bob Lee, male ,120.0,Samarkand,Electronics,"$1,200",1,2024-03-14,3.8
+1450,Anna Kim,FEMALE,59.0,Bukhara,Electronics,"$2,500",3,2024-02-24,
+1451,Anna Kim, male ,,Khiva,Clothing,"$1,200",7,2024-03-11,
+1452,,FEMALE,120.0,Bukhara,Beauty,$80,10,2024-02-14,
+1453,Vali Aliyev,Female,120.0,Khiva,Clothing,$15,2,2024-01-28,
+1454,Ali Khan,Female,120.0,Khiva,Electronics,$900,2,2024-01-19,
+1455,John Doe, male ,,Tashkent,Other,$50,1,2024-02-19,
+1456,Mike Ross,Male,120.0,Samarkand,Furniture,"$5,000",8,2024-01-02,
+1457,,Female,120.0,,Clothing,$80,1,2024-02-16,3.1
+1458,Bob Lee, male ,,Khiva,Furniture,$80,10,2024-01-26,3.8
+1459,, male ,,Bukhara,Beauty,$50,4,2024-03-18,
+1460,Mike Ross,Female,54.0,Khiva,Other,"$2,500",2,2024-03-12,
+1461,Mike Ross, male ,120.0,Khiva,Furniture,"$1,200",10,2024-03-02,
+1462,Alice Wong,Male,120.0,Khiva,Electronics,$900,5,2024-01-09,3.5
+1463,Bob Lee, male ,,,Other,$15,1,2024-03-30,4.6
+1464,Anna Kim,Male,,,Clothing,"$1,200",8,2024-02-10,
+1465,John Doe,Female,,Samarkand,Beauty,$80,4,2024-01-30,3.0
+1466,Sara Lee,Male,,Tashkent,Electronics,$900,8,2024-03-19,2.5
+1467,Anna Kim,FEMALE,,,Beauty,$900,8,2024-01-24,
+1468,Sara Lee,Male,120.0,,Furniture,"$2,500",8,2024-03-10,
+1469,Vali Aliyev,FEMALE,,Bukhara,Electronics,"$2,500",1,2024-03-27,3.0
+1470,Mike Ross,Female,120.0,,Beauty,"$1,200",4,2024-02-04,
+1471,Bob Lee,Female,,Khiva,Beauty,"$1,200",6,2024-02-21,3.2
+1472,John Doe,Male,120.0,Bukhara,Clothing,"$5,000",9,2024-02-25,4.6
+1473,Ali Khan,Female,,Khiva,Furniture,$80,3,2024-03-21,
+1474,Mike Ross,Male,,Khiva,Electronics,$900,3,2024-01-08,
+1475,Alice Wong, male ,58.0,Bukhara,Beauty,"$2,500",6,2024-03-12,
+1476,Vali Aliyev, male ,,,Clothing,"$1,200",10,2024-03-14,4.1
+1477,Anna Kim,FEMALE,,Khiva,Electronics,$900,7,2024-03-19,3.2
+1478,Anna Kim,FEMALE,120.0,,Other,$900,7,2024-01-10,
+1479,Mike Ross, male ,,,Furniture,$80,5,2024-02-26,
+1480,Alice Wong,FEMALE,120.0,Samarkand,Clothing,$15,1,2024-01-17,
+1481,Sara Lee,FEMALE,23.0,Tashkent,Electronics,$15,2,2024-03-01,3.9
+1482,Vali Aliyev,Male,120.0,Bukhara,Other,$900,3,2024-01-11,
+1483,Mike Ross,FEMALE,32.0,Samarkand,Clothing,"$1,200",9,2024-01-22,
+1484,Alice Wong, male ,,,Furniture,$900,3,2024-03-30,
+1485,Bob Lee, male ,120.0,Bukhara,Furniture,$15,9,2024-01-30,
+1486,Mike Ross,Female,,Bukhara,Electronics,"$1,200",1,2024-03-07,4.5
+1487,,Male,,Khiva,Furniture,"$1,200",5,2024-01-02,
+1488,, male ,32.0,Samarkand,Furniture,"$5,000",9,2024-02-25,3.5
+1489,Bob Lee,Female,,Bukhara,Electronics,$15,7,2024-03-21,
+1490,, male ,120.0,Khiva,Clothing,"$1,200",2,2024-01-24,2.8
+1491,Alice Wong, male ,120.0,,Furniture,$15,4,2024-02-11,2.5
+1492,Vali Aliyev, male ,19.0,Bukhara,Clothing,"$5,000",8,2024-01-02,3.1
+1493,Anna Kim,FEMALE,49.0,Bukhara,Furniture,$50,6,2024-02-29,4.2
+1494,Ali Khan, male ,23.0,Khiva,Electronics,"$1,200",9,2024-03-01,
+1495,Vali Aliyev,Female,42.0,Khiva,Furniture,$900,4,2024-01-05,3.0
+1496,Alice Wong,FEMALE,60.0,Bukhara,Beauty,"$5,000",3,2024-03-21,4.3
+1497,Mike Ross,Female,120.0,Bukhara,Electronics,"$1,200",4,2024-01-15,
+1498,Mike Ross,Male,18.0,Khiva,Clothing,"$1,200",1,2024-01-06,
+1499,Anna Kim,Male,56.0,Samarkand,Clothing,$15,8,2024-01-12,
+1500,Ali Khan, male ,58.0,Samarkand,Other,$900,2,2024-01-17,
+1501,Alice Wong,Female,,Tashkent,Furniture,"$5,000",6,2024-01-18,3.1
+1502,Mike Ross,FEMALE,120.0,Samarkand,Other,"$2,500",3,2024-03-10,
+1503,Sara Lee,Male,120.0,,Clothing,"$1,200",8,2024-02-07,
+1504,,FEMALE,120.0,Samarkand,Electronics,"$2,500",10,2024-02-16,4.4
+1505,,FEMALE,120.0,Samarkand,Other,"$1,200",8,2024-03-11,
+1506,Anna Kim,Male,120.0,Tashkent,Other,"$1,200",2,2024-01-06,4.6
+1507,Vali Aliyev,FEMALE,20.0,Samarkand,Electronics,$80,1,2024-03-14,
+1508,Mike Ross,Male,120.0,Bukhara,Clothing,$15,10,2024-01-10,2.5
+1509,Alice Wong,Male,49.0,Bukhara,Other,$15,7,2024-02-17,4.5
+1510,,Male,,Tashkent,Beauty,$900,2,2024-01-28,4.9
+1511,Bob Lee,Female,120.0,Samarkand,Other,$50,4,2024-03-13,4.1
+1512,Vali Aliyev, male ,,Khiva,Furniture,"$5,000",2,2024-01-22,
+1513,Sara Lee,FEMALE,120.0,Bukhara,Beauty,"$5,000",9,2024-02-11,
+1514,Anna Kim,Female,,,Other,$900,4,2024-02-18,
+1515,Bob Lee,Male,,Tashkent,Beauty,"$1,200",10,2024-01-03,
+1516,John Doe, male ,37.0,Tashkent,Beauty,$50,9,2024-03-06,3.9
+1517,Anna Kim,Female,,Samarkand,Beauty,$50,6,2024-03-15,
+1518,Bob Lee,Female,37.0,Tashkent,Beauty,$900,8,2024-01-23,3.7
+1519,Ali Khan,FEMALE,,Tashkent,Electronics,"$5,000",6,2024-02-14,
+1520,Ali Khan,FEMALE,25.0,Tashkent,Beauty,"$2,500",9,2024-01-06,3.3
+1521,John Doe,Female,120.0,Tashkent,Furniture,"$1,200",8,2024-03-17,3.9
+1522,Bob Lee,Female,,Samarkand,Beauty,$80,2,2024-03-01,3.9
+1523,Vali Aliyev,FEMALE,,,Furniture,"$5,000",3,2024-01-18,3.7
+1524,John Doe,Female,120.0,Samarkand,Electronics,"$2,500",5,2024-02-25,3.3
+1525,Bob Lee, male ,,Bukhara,Clothing,$50,6,2024-02-14,4.0
+1526,Anna Kim,FEMALE,37.0,,Clothing,$900,8,2024-01-06,4.8
+1527,Vali Aliyev,Male,41.0,Tashkent,Clothing,$80,10,2024-01-19,
+1528,Vali Aliyev, male ,120.0,Khiva,Furniture,$50,1,2024-02-12,3.0
+1529,Mike Ross,FEMALE,120.0,,Clothing,$80,1,2024-02-18,4.0
+1530,Mike Ross,Female,28.0,,Beauty,"$1,200",1,2024-02-29,4.1
+1531,Mike Ross, male ,120.0,Tashkent,Electronics,$50,5,2024-03-24,
+1532,Alice Wong,Male,,Samarkand,Clothing,"$5,000",9,2024-02-28,3.9
+1533,Mike Ross, male ,120.0,Khiva,Furniture,$50,3,2024-01-03,
+1534,John Doe, male ,,Tashkent,Beauty,"$1,200",7,2024-01-04,
+1535,Bob Lee,Female,,Tashkent,Furniture,$80,9,2024-03-27,4.0
+1536,Sara Lee,FEMALE,120.0,Bukhara,Other,"$2,500",6,2024-02-27,3.9
+1537,,Female,120.0,Samarkand,Beauty,$15,9,2024-01-18,3.6
+1538,Anna Kim,Male,54.0,,Other,$15,2,2024-01-24,3.3
+1539,Bob Lee,FEMALE,,Bukhara,Furniture,$15,5,2024-01-20,4.4
+1540,Mike Ross,Female,29.0,,Clothing,$80,4,2024-03-28,2.6
+1541,,FEMALE,48.0,Bukhara,Clothing,$15,7,2024-03-03,3.7
+1542,Bob Lee,Male,32.0,Bukhara,Furniture,$80,4,2024-03-26,5.0
+1543,Alice Wong, male ,,Khiva,Clothing,$50,7,2024-02-21,
+1544,,Male,,,Electronics,$15,8,2024-02-28,4.6
+1545,Bob Lee,Male,120.0,,Furniture,$80,9,2024-03-21,4.9
+1546,Mike Ross, male ,,Khiva,Clothing,"$1,200",7,2024-02-07,4.0
+1547,Alice Wong,FEMALE,51.0,Tashkent,Other,$15,2,2024-01-24,4.4
+1548,Alice Wong,Male,,Samarkand,Furniture,"$2,500",10,2024-01-26,4.7
+1549,Sara Lee,Male,120.0,Tashkent,Electronics,"$1,200",8,2024-03-22,
+1550,Sara Lee,FEMALE,120.0,,Furniture,$15,1,2024-01-22,4.8
+1551,Ali Khan,FEMALE,27.0,Bukhara,Beauty,$80,8,2024-02-06,4.1
+1552,Mike Ross,Male,30.0,Khiva,Furniture,$80,8,2024-03-10,
+1553,Alice Wong,FEMALE,120.0,Khiva,Furniture,$80,2,2024-03-17,4.0
+1554,,Female,120.0,Tashkent,Clothing,"$5,000",3,2024-01-08,4.1
+1555,Mike Ross, male ,120.0,Tashkent,Electronics,$80,2,2024-02-23,5.0
+1556,,Female,120.0,Khiva,Other,$15,6,2024-01-05,
+1557,Vali Aliyev,FEMALE,,,Electronics,"$1,200",5,2024-03-01,
+1558,,Female,,Samarkand,Other,"$1,200",1,2024-01-14,3.9
+1559,Mike Ross,FEMALE,120.0,,Beauty,"$2,500",5,2024-03-08,
+1560,Alice Wong,FEMALE,120.0,Khiva,Clothing,$80,10,2024-01-30,4.3
+1561,Alice Wong,Male,25.0,Samarkand,Other,$50,7,2024-02-22,
+1562,Ali Khan,Female,58.0,Bukhara,Beauty,"$5,000",2,2024-02-09,
+1563,Anna Kim, male ,18.0,Khiva,Other,$900,10,2024-01-04,4.6
+1564,Alice Wong,FEMALE,120.0,Tashkent,Clothing,"$1,200",8,2024-01-20,
+1565,Ali Khan, male ,120.0,,Beauty,"$2,500",9,2024-03-09,
+1566,Sara Lee, male ,40.0,Tashkent,Beauty,$900,7,2024-03-21,3.8
+1567,Sara Lee,Male,,Bukhara,Beauty,"$5,000",1,2024-02-04,
+1568,Mike Ross,Female,,,Beauty,$80,3,2024-01-15,3.4
+1569,Alice Wong,Male,30.0,Khiva,Other,$900,3,2024-01-25,
+1570,Anna Kim,Female,,Tashkent,Other,$15,3,2024-01-27,
+1571,Ali Khan, male ,51.0,Tashkent,Other,"$2,500",2,2024-02-12,3.7
+1572,Mike Ross,Male,120.0,,Beauty,$50,4,2024-02-11,
+1573,Alice Wong,Male,,Bukhara,Clothing,"$1,200",3,2024-02-05,2.8
+1574,, male ,,Bukhara,Clothing,$80,5,2024-03-14,3.1
+1575,,FEMALE,,Tashkent,Clothing,"$1,200",1,2024-03-01,4.8
+1576,Vali Aliyev,FEMALE,42.0,Khiva,Clothing,$50,10,2024-03-16,
+1577,Anna Kim,Female,,,Electronics,"$5,000",8,2024-03-13,
+1578,Alice Wong,FEMALE,,Samarkand,Clothing,$50,3,2024-03-19,
+1579,Anna Kim, male ,120.0,Khiva,Furniture,"$2,500",1,2024-01-09,
+1580,Mike Ross, male ,47.0,,Other,"$2,500",3,2024-03-06,2.8
+1581,Vali Aliyev, male ,120.0,,Furniture,"$1,200",7,2024-03-16,3.5
+1582,Bob Lee,Male,,Bukhara,Clothing,"$5,000",10,2024-02-25,
+1583,John Doe,Female,120.0,Tashkent,Other,"$5,000",8,2024-01-15,
+1584,Alice Wong,Female,53.0,Bukhara,Furniture,"$1,200",2,2024-03-17,
+1585,Ali Khan,Male,120.0,Samarkand,Clothing,"$1,200",10,2024-03-22,4.5
+1586,, male ,,Khiva,Other,$15,10,2024-02-27,
+1587,Mike Ross,FEMALE,120.0,Bukhara,Electronics,"$1,200",10,2024-01-02,
+1588,Ali Khan, male ,,,Electronics,$900,1,2024-03-31,
+1589,John Doe,FEMALE,36.0,,Furniture,$50,6,2024-02-18,
+1590,Sara Lee,FEMALE,120.0,Samarkand,Clothing,"$5,000",9,2024-02-19,
+1591,Mike Ross,Female,44.0,Samarkand,Electronics,$900,2,2024-03-23,
+1592,Vali Aliyev,Female,45.0,Khiva,Furniture,$15,10,2024-02-24,
+1593,Alice Wong,FEMALE,120.0,Bukhara,Clothing,"$5,000",3,2024-02-24,
+1594,, male ,120.0,Khiva,Other,$900,10,2024-02-16,2.6
+1595,Anna Kim,Male,120.0,,Furniture,"$5,000",2,2024-01-19,
+1596,,Male,51.0,Samarkand,Furniture,"$2,500",2,2024-03-28,
+1597,,Male,,Khiva,Furniture,"$5,000",9,2024-03-01,
+1598,Mike Ross,Female,,Tashkent,Other,"$2,500",5,2024-03-13,
+1599,Ali Khan, male ,120.0,,Electronics,"$5,000",5,2024-03-03,2.7
+1600,Sara Lee, male ,,Bukhara,Beauty,$900,1,2024-01-15,4.0
+1601,Sara Lee, male ,,Samarkand,Furniture,$15,3,2024-03-08,
+1602,Sara Lee,FEMALE,120.0,Khiva,Furniture,$50,4,2024-03-25,3.6
+1603,Anna Kim,Male,120.0,Bukhara,Electronics,$80,1,2024-01-22,
+1604,,Female,120.0,Khiva,Furniture,"$1,200",8,2024-02-03,
+1605,Bob Lee, male ,,,Electronics,$50,2,2024-03-09,
+1606,Anna Kim, male ,,Bukhara,Electronics,"$5,000",5,2024-03-24,
+1607,John Doe, male ,120.0,Samarkand,Beauty,$900,9,2024-01-02,4.2
+1608,,Male,44.0,Khiva,Beauty,$50,4,2024-02-06,3.1
+1609,Ali Khan,Female,57.0,,Electronics,$50,2,2024-01-12,4.6
+1610,Sara Lee,Male,120.0,Samarkand,Beauty,"$2,500",5,2024-02-29,4.2
+1611,Bob Lee, male ,,Bukhara,Clothing,$15,2,2024-02-05,
+1612,Mike Ross, male ,39.0,Samarkand,Furniture,"$2,500",2,2024-03-03,4.9
+1613,Alice Wong,Male,43.0,Samarkand,Other,"$5,000",7,2024-01-28,4.0
+1614,Ali Khan,Male,34.0,Tashkent,Other,"$2,500",5,2024-02-27,
+1615,Ali Khan,Male,120.0,Khiva,Beauty,$80,3,2024-03-30,
+1616,Alice Wong,FEMALE,120.0,Khiva,Furniture,"$5,000",2,2024-03-10,
+1617,, male ,48.0,Bukhara,Beauty,$15,7,2024-01-08,4.1
+1618,Vali Aliyev,FEMALE,,Bukhara,Clothing,"$1,200",3,2024-03-11,
+1619,Bob Lee,Male,,Bukhara,Furniture,$15,2,2024-03-21,3.6
+1620,Ali Khan,Female,20.0,Khiva,Furniture,$80,2,2024-03-10,
+1621,Ali Khan, male ,46.0,Tashkent,Beauty,"$5,000",1,2024-02-21,
+1622,John Doe,Male,52.0,Tashkent,Clothing,$15,8,2024-03-24,2.5
+1623,Ali Khan,Female,59.0,Tashkent,Beauty,$80,2,2024-02-28,4.0
+1624,Alice Wong,Female,24.0,Tashkent,Clothing,$900,7,2024-02-13,
+1625,,Female,120.0,Bukhara,Clothing,"$1,200",1,2024-03-16,2.9
+1626,Bob Lee,Female,35.0,Bukhara,Other,$50,3,2024-02-26,3.1
+1627,Bob Lee,Female,120.0,Tashkent,Furniture,$80,2,2024-01-01,2.5
+1628,Mike Ross,FEMALE,120.0,Khiva,Clothing,$15,4,2024-01-19,
+1629,Ali Khan,Female,33.0,Khiva,Other,"$2,500",2,2024-03-21,
+1630,,Female,44.0,Samarkand,Electronics,"$1,200",9,2024-01-13,4.0
+1631,John Doe, male ,120.0,Tashkent,Clothing,"$2,500",2,2024-01-20,
+1632,Ali Khan,Male,29.0,Bukhara,Beauty,"$2,500",4,2024-02-25,
+1633,Ali Khan,Female,120.0,Samarkand,Electronics,$50,8,2024-03-06,2.8
+1634,Anna Kim,FEMALE,120.0,Samarkand,Beauty,$15,4,2024-01-15,3.3
+1635,Bob Lee,Female,44.0,Tashkent,Furniture,$80,10,2024-03-03,
+1636,Alice Wong,Female,120.0,Khiva,Beauty,$80,3,2024-02-28,
+1637,Sara Lee,Male,,,Electronics,"$1,200",5,2024-01-18,
+1638,Anna Kim,Female,44.0,Bukhara,Other,"$2,500",3,2024-03-22,4.9
+1639,Vali Aliyev,FEMALE,53.0,,Furniture,"$5,000",4,2024-03-16,
+1640,Bob Lee,Female,120.0,Samarkand,Beauty,"$1,200",7,2024-03-15,3.1
+1641,Ali Khan,Male,,Khiva,Other,"$5,000",1,2024-02-24,
+1642,Alice Wong,Female,,Tashkent,Other,$900,1,2024-03-29,4.3
+1643,John Doe,Male,,Tashkent,Furniture,$80,5,2024-01-21,4.3
+1644,Bob Lee,Female,47.0,Bukhara,Furniture,"$2,500",1,2024-03-21,
+1645,Bob Lee, male ,,,Other,"$5,000",10,2024-01-27,4.5
+1646,Ali Khan, male ,120.0,Tashkent,Electronics,"$5,000",7,2024-02-16,3.7
+1647,,Male,41.0,,Clothing,"$1,200",3,2024-02-12,3.1
+1648,John Doe,Female,120.0,Bukhara,Beauty,$15,5,2024-03-05,
+1649,Anna Kim,FEMALE,,Khiva,Other,$50,9,2024-01-16,
+1650,Vali Aliyev,Female,,Khiva,Electronics,"$2,500",2,2024-02-20,
+1651,Mike Ross,Male,24.0,Samarkand,Furniture,$50,3,2024-01-27,3.8
+1652,,Female,120.0,Khiva,Beauty,"$1,200",7,2024-02-26,4.3
+1653,Ali Khan,Female,30.0,,Beauty,"$1,200",7,2024-03-15,
+1654,,FEMALE,120.0,Khiva,Beauty,"$2,500",10,2024-01-17,
+1655,Alice Wong, male ,34.0,Bukhara,Electronics,$80,3,2024-02-15,3.2
+1656,, male ,120.0,Samarkand,Clothing,"$5,000",3,2024-01-21,3.1
+1657,Alice Wong, male ,54.0,Bukhara,Clothing,"$1,200",4,2024-03-12,
+1658,Alice Wong,Female,,,Beauty,"$1,200",2,2024-01-04,
+1659,Anna Kim,Female,,Tashkent,Other,$900,9,2024-02-12,
+1660,Sara Lee,FEMALE,120.0,Bukhara,Electronics,"$2,500",8,2024-01-06,2.8
+1661,John Doe,FEMALE,,Bukhara,Electronics,"$1,200",6,2024-01-08,4.0
+1662,Mike Ross,Female,51.0,Tashkent,Electronics,"$5,000",9,2024-02-27,4.2
+1663,Alice Wong, male ,43.0,,Other,"$5,000",9,2024-01-08,
+1664,Bob Lee, male ,120.0,Khiva,Beauty,"$2,500",1,2024-02-06,
+1665,John Doe,FEMALE,53.0,Khiva,Furniture,"$2,500",5,2024-01-21,
+1666,Vali Aliyev,Female,44.0,Samarkand,Beauty,$15,8,2024-03-08,5.0
+1667,Ali Khan,FEMALE,42.0,Bukhara,Furniture,"$5,000",3,2024-03-12,3.7
+1668,Mike Ross,FEMALE,,Tashkent,Beauty,$80,10,2024-02-08,
+1669,Sara Lee, male ,19.0,Bukhara,Furniture,$80,2,2024-03-24,
+1670,John Doe,Male,,Tashkent,Beauty,"$2,500",8,2024-01-09,
+1671,Bob Lee, male ,120.0,Khiva,Electronics,"$5,000",6,2024-03-06,4.3
+1672,Ali Khan,Female,34.0,Bukhara,Furniture,$900,3,2024-02-15,
+1673,Anna Kim,Male,120.0,Bukhara,Beauty,"$1,200",9,2024-03-22,4.8
+1674,Vali Aliyev,Female,58.0,,Beauty,$900,6,2024-03-28,
+1675,, male ,41.0,Samarkand,Electronics,$15,3,2024-03-07,
+1676,Vali Aliyev,Female,39.0,Samarkand,Other,"$2,500",4,2024-01-25,4.5
+1677,Vali Aliyev,Female,47.0,Tashkent,Furniture,"$2,500",6,2024-02-09,4.2
+1678,, male ,120.0,Samarkand,Beauty,$900,1,2024-01-16,3.1
+1679,Sara Lee,Female,,Samarkand,Electronics,$15,7,2024-03-29,4.4
+1680,Bob Lee,Male,,Samarkand,Electronics,$50,1,2024-03-25,3.8
+1681,Ali Khan,Male,,Bukhara,Electronics,"$2,500",2,2024-01-16,4.8
+1682,Anna Kim,Male,30.0,Tashkent,Clothing,"$5,000",5,2024-03-15,3.4
+1683,John Doe,Male,120.0,Tashkent,Other,$900,1,2024-03-08,3.0
+1684,Ali Khan,Male,120.0,Samarkand,Other,"$1,200",8,2024-02-16,4.2
+1685,Anna Kim,FEMALE,24.0,Khiva,Clothing,"$2,500",9,2024-01-30,
+1686,,Female,47.0,Khiva,Beauty,$50,5,2024-03-12,4.3
+1687,Bob Lee, male ,49.0,Khiva,Other,"$1,200",5,2024-03-28,
+1688,Mike Ross,FEMALE,,Samarkand,Electronics,$80,8,2024-03-27,3.4
+1689,Vali Aliyev,FEMALE,120.0,Khiva,Other,$15,2,2024-01-16,
+1690,Sara Lee,Male,55.0,Bukhara,Clothing,$15,6,2024-01-26,
+1691,Alice Wong, male ,,,Other,$50,5,2024-03-23,
+1692,Bob Lee,FEMALE,120.0,,Beauty,"$2,500",3,2024-02-28,
+1693,Sara Lee,Male,49.0,Tashkent,Electronics,"$2,500",2,2024-03-04,4.2
+1694,Anna Kim,Female,120.0,Bukhara,Other,"$2,500",10,2024-01-13,
+1695,Mike Ross,FEMALE,47.0,Khiva,Other,$900,5,2024-03-10,3.4
+1696,Vali Aliyev,FEMALE,,Khiva,Beauty,$900,7,2024-02-26,3.6
+1697,Mike Ross,Female,120.0,Khiva,Furniture,$80,3,2024-02-09,
+1698,Alice Wong,FEMALE,120.0,Khiva,Other,$900,3,2024-03-05,
+1699,Anna Kim, male ,,Bukhara,Electronics,"$2,500",1,2024-03-16,
+1700,Anna Kim,FEMALE,55.0,Tashkent,Furniture,"$1,200",6,2024-02-15,3.5
+1701,John Doe, male ,33.0,,Electronics,$15,2,2024-02-09,2.8
+1702,Ali Khan,FEMALE,,Khiva,Other,$50,9,2024-02-23,
+1703,Bob Lee,FEMALE,,Bukhara,Other,"$5,000",2,2024-03-03,2.8
+1704,Anna Kim,Female,120.0,,Beauty,"$1,200",6,2024-02-25,3.0
+1705,Mike Ross, male ,52.0,Tashkent,Beauty,$900,10,2024-02-21,4.5
+1706,Anna Kim, male ,55.0,Tashkent,Other,$15,9,2024-03-01,
+1707,Mike Ross, male ,120.0,Khiva,Other,$900,6,2024-01-26,
+1708,,Female,,Tashkent,Other,"$5,000",3,2024-03-14,
+1709,Bob Lee,Male,120.0,,Clothing,"$1,200",6,2024-02-29,2.9
+1710,Bob Lee, male ,,Tashkent,Clothing,$15,7,2024-02-04,4.6
+1711,Bob Lee,Female,56.0,Tashkent,Clothing,"$1,200",4,2024-01-04,
+1712,Bob Lee,FEMALE,120.0,Tashkent,Clothing,"$2,500",3,2024-02-04,
+1713,,Female,120.0,Tashkent,Furniture,$900,1,2024-01-08,4.6
+1714,Vali Aliyev,FEMALE,,Bukhara,Electronics,"$1,200",7,2024-01-18,3.1
+1715,, male ,120.0,Khiva,Electronics,"$5,000",4,2024-03-17,
+1716,Bob Lee,Female,120.0,Khiva,Clothing,"$1,200",3,2024-01-14,
+1717,Ali Khan,FEMALE,,,Beauty,"$2,500",2,2024-02-10,
+1718,Sara Lee, male ,,Khiva,Beauty,$15,5,2024-01-03,4.1
+1719,John Doe, male ,60.0,,Furniture,$900,5,2024-03-22,
+1720,John Doe,FEMALE,120.0,Khiva,Electronics,$900,7,2024-02-02,3.3
+1721,Alice Wong, male ,31.0,Khiva,Electronics,"$1,200",5,2024-01-11,
+1722,Bob Lee,Male,,Samarkand,Beauty,"$2,500",9,2024-01-09,
+1723,Sara Lee,FEMALE,19.0,Samarkand,Electronics,"$2,500",7,2024-01-26,
+1724,Sara Lee,Female,23.0,,Clothing,"$5,000",10,2024-03-28,
+1725,Sara Lee, male ,120.0,Samarkand,Other,"$2,500",6,2024-02-06,
+1726,Bob Lee,Female,,Tashkent,Electronics,"$1,200",9,2024-03-23,4.0
+1727,Mike Ross,Female,47.0,Tashkent,Furniture,$50,10,2024-02-24,4.0
+1728,Vali Aliyev,Male,41.0,,Furniture,$50,8,2024-03-27,3.7
+1729,Mike Ross, male ,31.0,Khiva,Furniture,$15,3,2024-02-25,4.6
+1730,John Doe,FEMALE,120.0,Samarkand,Furniture,$900,3,2024-01-04,
+1731,John Doe, male ,,,Furniture,$80,2,2024-01-02,
+1732,John Doe,FEMALE,120.0,Khiva,Other,$15,5,2024-01-10,2.7
+1733,Alice Wong, male ,39.0,,Other,$50,1,2024-01-01,
+1734,Anna Kim,Female,120.0,,Electronics,"$1,200",10,2024-01-23,
+1735,Vali Aliyev, male ,47.0,,Furniture,"$1,200",3,2024-02-03,2.8
+1736,Anna Kim,FEMALE,,Bukhara,Beauty,$80,10,2024-02-03,
+1737,Alice Wong,Female,120.0,,Furniture,$80,1,2024-01-25,2.9
+1738,Mike Ross,Female,,Khiva,Furniture,$80,2,2024-03-04,
+1739,Alice Wong,FEMALE,,Tashkent,Clothing,$15,2,2024-02-14,
+1740,, male ,120.0,,Other,$80,4,2024-03-15,5.0
+1741,Bob Lee,Male,54.0,Samarkand,Furniture,"$5,000",2,2024-02-12,2.6
+1742,Vali Aliyev, male ,120.0,Samarkand,Electronics,"$2,500",2,2024-02-28,
+1743,Ali Khan, male ,,Tashkent,Other,"$2,500",8,2024-02-11,4.9
+1744,Mike Ross, male ,120.0,Tashkent,Electronics,$80,9,2024-03-18,
+1745,Bob Lee,Male,29.0,Tashkent,Clothing,"$1,200",3,2024-02-19,
+1746,Vali Aliyev, male ,59.0,Khiva,Furniture,$15,5,2024-03-28,
+1747,,Female,,Khiva,Furniture,$15,7,2024-03-01,
+1748,Sara Lee,FEMALE,,Khiva,Electronics,$50,1,2024-03-06,
+1749,Sara Lee,FEMALE,120.0,,Other,$15,2,2024-02-07,3.7
+1750,Sara Lee,Female,,Bukhara,Clothing,$900,9,2024-02-24,3.2
+1751,,Male,22.0,,Furniture,"$5,000",7,2024-01-13,
+1752,Vali Aliyev,Male,120.0,Tashkent,Furniture,"$1,200",3,2024-01-24,4.6
+1753,Mike Ross, male ,120.0,,Furniture,$50,8,2024-03-20,
+1754,Sara Lee,Male,29.0,,Beauty,$900,2,2024-02-25,3.8
+1755,Sara Lee,FEMALE,25.0,Khiva,Furniture,"$2,500",10,2024-03-03,
+1756,Vali Aliyev,Female,,Samarkand,Electronics,$15,4,2024-01-15,4.5
+1757,Alice Wong,Female,19.0,Samarkand,Furniture,$900,9,2024-01-25,
+1758,Ali Khan,Male,,Samarkand,Clothing,$80,8,2024-03-03,
+1759,Mike Ross,FEMALE,33.0,Tashkent,Beauty,"$5,000",1,2024-01-14,
+1760,, male ,120.0,Tashkent,Furniture,"$2,500",7,2024-03-03,
+1761,Ali Khan,FEMALE,120.0,,Beauty,$80,9,2024-01-09,
+1762,Anna Kim,FEMALE,,Khiva,Electronics,"$2,500",3,2024-02-06,
+1763,,Female,46.0,,Beauty,"$1,200",10,2024-03-25,
+1764,Anna Kim,FEMALE,,Samarkand,Other,$15,4,2024-02-06,4.2
+1765,Sara Lee,Female,48.0,Samarkand,Other,$15,8,2024-01-13,
+1766,,Male,33.0,Tashkent,Beauty,"$1,200",5,2024-02-15,4.2
+1767,Vali Aliyev, male ,50.0,Khiva,Electronics,$900,10,2024-01-30,2.8
+1768,Anna Kim,Male,,,Beauty,"$2,500",3,2024-03-29,4.7
+1769,Alice Wong,Male,,Tashkent,Other,$15,10,2024-01-14,4.6
+1770,Vali Aliyev,Female,24.0,Bukhara,Clothing,"$5,000",5,2024-03-31,
+1771,Anna Kim, male ,24.0,Samarkand,Electronics,$15,4,2024-02-26,4.9
+1772,Mike Ross,Female,,Tashkent,Beauty,$80,6,2024-02-23,3.4
+1773,John Doe,Female,,Khiva,Furniture,$80,7,2024-02-28,
+1774,Ali Khan,Male,46.0,Tashkent,Beauty,$50,6,2024-02-21,5.0
+1775,Ali Khan,Female,,,Electronics,"$2,500",9,2024-02-07,
+1776,Ali Khan, male ,,,Other,$15,3,2024-03-30,3.5
+1777,Alice Wong, male ,120.0,Khiva,Clothing,"$5,000",5,2024-01-11,
+1778,, male ,120.0,Samarkand,Electronics,"$2,500",9,2024-03-11,
+1779,Ali Khan,Male,58.0,,Other,$900,5,2024-01-31,
+1780,Vali Aliyev,Male,120.0,Bukhara,Beauty,$15,9,2024-02-15,2.8
+1781,Ali Khan,FEMALE,120.0,Bukhara,Clothing,"$2,500",10,2024-03-13,4.3
+1782,Sara Lee,FEMALE,,,Clothing,"$1,200",2,2024-02-11,3.8
+1783,Vali Aliyev,Female,,Khiva,Furniture,$900,2,2024-01-12,2.7
+1784,Vali Aliyev, male ,,,Furniture,"$2,500",10,2024-03-12,
+1785,Alice Wong,FEMALE,120.0,Khiva,Furniture,$900,7,2024-01-21,2.9
+1786,,Male,47.0,Samarkand,Furniture,"$2,500",8,2024-01-05,
+1787,Vali Aliyev,Male,,Bukhara,Other,$50,5,2024-01-06,3.8
+1788,Mike Ross, male ,,Khiva,Electronics,"$1,200",3,2024-01-19,
+1789,John Doe,Female,,Khiva,Electronics,$50,2,2024-03-11,3.4
+1790,Mike Ross,FEMALE,120.0,Bukhara,Furniture,"$2,500",8,2024-03-18,2.8
+1791,Alice Wong,FEMALE,,Samarkand,Beauty,"$5,000",2,2024-03-20,
+1792,Anna Kim,Male,,Khiva,Beauty,"$2,500",2,2024-01-22,
+1793,,Male,59.0,Samarkand,Other,"$5,000",9,2024-03-14,4.4
+1794,Ali Khan,Male,120.0,,Clothing,$900,1,2024-02-05,4.5
+1795,Vali Aliyev, male ,,Khiva,Other,$900,1,2024-03-03,4.7
+1796,Bob Lee,Male,45.0,,Beauty,"$1,200",7,2024-02-02,2.7
+1797,Sara Lee,Female,,Bukhara,Electronics,"$5,000",3,2024-02-09,4.9
+1798,Sara Lee,Male,,Tashkent,Beauty,$50,7,2024-01-13,
+1799,Vali Aliyev,Male,,Samarkand,Clothing,"$1,200",10,2024-03-16,
+1800,Anna Kim,FEMALE,35.0,,Furniture,$50,2,2024-03-02,2.6
+1801,Vali Aliyev,Female,120.0,,Clothing,$50,5,2024-03-13,3.5
+1802,John Doe,Female,120.0,Bukhara,Other,$900,3,2024-02-01,
+1803,Ali Khan,FEMALE,46.0,,Beauty,"$5,000",3,2024-01-01,
+1804,Bob Lee, male ,,Samarkand,Other,"$1,200",9,2024-02-06,2.6
+1805,Vali Aliyev,Female,,,Beauty,"$1,200",7,2024-01-27,
+1806,Mike Ross,FEMALE,120.0,Bukhara,Clothing,$15,6,2024-02-13,
+1807,Ali Khan,FEMALE,120.0,Tashkent,Electronics,$50,3,2024-02-22,
+1808,Vali Aliyev,Male,120.0,,Electronics,$900,8,2024-03-27,
+1809,Bob Lee,Female,,Tashkent,Electronics,$900,8,2024-02-17,
+1810,Ali Khan, male ,120.0,Bukhara,Clothing,$50,2,2024-03-19,4.1
+1811,Ali Khan, male ,,Khiva,Other,$80,4,2024-01-01,
+1812,,FEMALE,120.0,Samarkand,Other,$50,4,2024-03-25,4.3
+1813,Vali Aliyev,Female,55.0,Bukhara,Other,$50,4,2024-03-07,
+1814,, male ,120.0,,Furniture,$80,1,2024-02-24,4.1
+1815,Bob Lee, male ,,Tashkent,Other,$900,8,2024-03-04,3.4
+1816,Mike Ross,FEMALE,32.0,,Furniture,$15,6,2024-01-01,
+1817,John Doe,FEMALE,54.0,Tashkent,Clothing,$50,4,2024-01-22,3.3
+1818,Ali Khan,FEMALE,58.0,Khiva,Electronics,$15,10,2024-03-21,
+1819,John Doe, male ,,Tashkent,Beauty,$80,9,2024-01-31,
+1820,Alice Wong,Male,120.0,Tashkent,Electronics,$900,1,2024-02-18,3.3
+1821,Alice Wong,Male,26.0,Bukhara,Other,$900,7,2024-01-09,2.8
+1822,Bob Lee,FEMALE,,Tashkent,Other,"$5,000",7,2024-01-30,4.7
+1823,Bob Lee,Male,,Bukhara,Electronics,"$2,500",8,2024-03-07,3.3
+1824,Vali Aliyev,Female,24.0,,Clothing,$50,9,2024-02-02,
+1825,Sara Lee,Female,,Samarkand,Electronics,$15,1,2024-01-17,
+1826,Mike Ross,Female,,Samarkand,Furniture,"$5,000",5,2024-03-18,
+1827,Sara Lee,Male,120.0,Samarkand,Other,$50,9,2024-01-07,3.6
+1828,Vali Aliyev, male ,58.0,Samarkand,Furniture,$80,8,2024-03-17,
+1829,Anna Kim,Female,,Tashkent,Furniture,"$5,000",1,2024-03-04,3.0
+1830,John Doe,FEMALE,120.0,,Clothing,$15,4,2024-03-02,
+1831,Bob Lee,Female,42.0,Tashkent,Beauty,$900,1,2024-01-10,3.4
+1832,John Doe, male ,,Tashkent,Electronics,$80,4,2024-01-26,3.2
+1833,,Female,,Samarkand,Clothing,"$1,200",1,2024-01-23,4.6
+1834,Vali Aliyev, male ,,Samarkand,Beauty,$50,8,2024-01-31,
+1835,Bob Lee,Male,120.0,Tashkent,Clothing,$15,3,2024-01-25,
+1836,Bob Lee,Female,,Tashkent,Other,$15,10,2024-01-25,
+1837,John Doe,Male,,Bukhara,Clothing,$900,9,2024-03-15,4.7
+1838,Vali Aliyev,Female,,,Furniture,$15,9,2024-02-17,
+1839,Anna Kim,FEMALE,120.0,Khiva,Furniture,$80,5,2024-03-15,3.5
+1840,Alice Wong,Female,32.0,Khiva,Clothing,$80,5,2024-02-24,4.7
+1841,,Male,,Samarkand,Electronics,$900,5,2024-02-26,3.8
+1842,, male ,,Khiva,Furniture,"$5,000",8,2024-02-25,
+1843,Ali Khan,Female,,Khiva,Clothing,"$1,200",5,2024-03-23,2.7
+1844,,Male,120.0,Bukhara,Clothing,"$1,200",2,2024-01-16,2.7
+1845,John Doe, male ,,Bukhara,Beauty,"$5,000",5,2024-01-25,4.3
+1846,Ali Khan, male ,,Bukhara,Beauty,$900,7,2024-02-21,4.6
+1847,Sara Lee,FEMALE,120.0,Samarkand,Clothing,"$2,500",4,2024-03-01,
+1848,Vali Aliyev, male ,,Samarkand,Furniture,$15,7,2024-01-27,3.6
+1849,Sara Lee, male ,120.0,Tashkent,Furniture,"$1,200",6,2024-02-13,
+1850,, male ,120.0,Bukhara,Other,$15,1,2024-03-13,4.5
+1851,Bob Lee,FEMALE,120.0,Samarkand,Furniture,$80,2,2024-03-09,
+1852,Alice Wong, male ,120.0,Tashkent,Clothing,$50,2,2024-03-27,3.9
+1853,Ali Khan,Female,,Samarkand,Electronics,$900,7,2024-02-06,
+1854,Alice Wong,Male,51.0,Bukhara,Other,$15,1,2024-01-22,
+1855,Sara Lee,FEMALE,28.0,Khiva,Electronics,"$2,500",7,2024-01-27,2.8
+1856,Alice Wong,Female,120.0,,Other,"$1,200",5,2024-03-16,
+1857,Sara Lee,FEMALE,30.0,Tashkent,Furniture,"$1,200",10,2024-02-01,
+1858,Ali Khan,Male,120.0,Bukhara,Furniture,"$2,500",6,2024-03-30,
+1859,Bob Lee,Female,57.0,Samarkand,Other,"$2,500",7,2024-02-28,3.5
+1860,Bob Lee,Male,54.0,Samarkand,Clothing,$15,5,2024-03-21,3.8
+1861,Bob Lee,Male,,Bukhara,Electronics,$15,2,2024-03-05,
+1862,Mike Ross,Female,46.0,,Electronics,"$2,500",8,2024-01-04,
+1863,Bob Lee,Female,120.0,Khiva,Electronics,"$2,500",1,2024-02-02,2.8
+1864,Alice Wong,FEMALE,120.0,Khiva,Electronics,"$1,200",2,2024-03-11,
+1865,Sara Lee,Female,,Tashkent,Other,$80,2,2024-01-23,
+1866,Ali Khan, male ,120.0,Samarkand,Furniture,$80,6,2024-01-23,3.0
+1867,Alice Wong,Male,52.0,,Electronics,$15,7,2024-03-29,3.3
+1868,Bob Lee,Female,18.0,Samarkand,Beauty,"$5,000",4,2024-01-26,
+1869,John Doe,Male,,Samarkand,Electronics,$50,3,2024-01-22,2.6
+1870,,Female,,,Clothing,$900,9,2024-02-20,4.8
+1871,Anna Kim, male ,31.0,Samarkand,Electronics,$80,7,2024-03-24,
+1872,Vali Aliyev, male ,47.0,,Beauty,$80,1,2024-01-09,
+1873,Vali Aliyev,Female,,Bukhara,Electronics,"$1,200",10,2024-02-11,
+1874,Sara Lee, male ,,Khiva,Electronics,$15,6,2024-01-03,
+1875,John Doe,Male,120.0,Samarkand,Electronics,"$2,500",10,2024-01-16,
+1876,Vali Aliyev,Male,120.0,Samarkand,Beauty,$900,8,2024-02-07,
+1877,John Doe,FEMALE,59.0,Bukhara,Clothing,$80,5,2024-02-10,4.1
+1878,Mike Ross,Male,120.0,Samarkand,Beauty,"$5,000",6,2024-02-01,3.0
+1879,John Doe,FEMALE,120.0,,Beauty,$15,3,2024-02-26,4.1
+1880,John Doe,Male,49.0,Samarkand,Clothing,$900,3,2024-01-12,2.9
+1881,Bob Lee,FEMALE,50.0,Bukhara,Clothing,$80,4,2024-02-01,3.6
+1882,Alice Wong,Female,120.0,Bukhara,Furniture,"$1,200",2,2024-02-16,3.5
+1883,,FEMALE,,Samarkand,Furniture,"$2,500",1,2024-02-18,3.6
+1884,,Female,120.0,,Clothing,$900,5,2024-02-18,
+1885,Alice Wong,Male,120.0,Bukhara,Clothing,"$1,200",8,2024-01-26,2.9
+1886,Anna Kim,FEMALE,120.0,Khiva,Furniture,$50,7,2024-02-17,
+1887,Bob Lee,Male,55.0,Tashkent,Furniture,$15,10,2024-01-21,
+1888,Alice Wong, male ,120.0,Tashkent,Furniture,"$1,200",7,2024-02-01,3.1
+1889,Ali Khan,Female,120.0,Bukhara,Other,$900,8,2024-03-28,2.9
+1890,Sara Lee,Male,120.0,Tashkent,Electronics,"$5,000",7,2024-02-20,4.3
+1891,Sara Lee,FEMALE,,Bukhara,Beauty,"$5,000",9,2024-03-09,
+1892,Bob Lee,Male,120.0,Tashkent,Other,"$5,000",6,2024-01-19,3.2
+1893,Mike Ross,Male,120.0,Samarkand,Furniture,$15,1,2024-01-13,
+1894,Mike Ross,FEMALE,120.0,Samarkand,Clothing,"$5,000",6,2024-01-24,4.3
+1895,Vali Aliyev,FEMALE,120.0,,Clothing,"$2,500",3,2024-01-26,2.6
+1896,Bob Lee,FEMALE,,,Electronics,$900,3,2024-01-11,
+1897,Anna Kim,Male,35.0,,Clothing,$50,8,2024-03-03,4.2
+1898,Ali Khan,Male,,Tashkent,Clothing,$50,9,2024-01-01,
+1899,Bob Lee, male ,,Bukhara,Beauty,"$2,500",6,2024-01-31,
+1900,Anna Kim, male ,57.0,Tashkent,Electronics,"$2,500",8,2024-03-30,3.5
+1901,, male ,56.0,Samarkand,Beauty,$50,8,2024-03-20,
+1902,John Doe,Male,120.0,Bukhara,Electronics,"$5,000",6,2024-01-06,
+1903,Alice Wong,FEMALE,46.0,,Electronics,$15,6,2024-02-24,
+1904,Bob Lee, male ,120.0,,Clothing,$15,3,2024-03-07,4.7
+1905,Mike Ross,FEMALE,49.0,Samarkand,Furniture,$80,2,2024-03-02,4.2
+1906,Vali Aliyev,Male,31.0,Khiva,Electronics,$80,3,2024-02-11,
+1907,Alice Wong,Male,120.0,Samarkand,Other,$80,8,2024-01-12,
+1908,Vali Aliyev, male ,120.0,Khiva,Furniture,$900,9,2024-02-25,4.5
+1909,Vali Aliyev,Male,,Tashkent,Beauty,"$1,200",10,2024-01-25,4.4
+1910,Anna Kim,FEMALE,41.0,,Electronics,"$5,000",5,2024-01-08,4.0
+1911,Anna Kim, male ,,Samarkand,Other,$900,10,2024-03-16,
+1912,Anna Kim,Female,,Bukhara,Clothing,$50,8,2024-03-28,
+1913,Ali Khan, male ,120.0,Bukhara,Other,$80,2,2024-02-05,
+1914,Mike Ross,FEMALE,,Tashkent,Beauty,$15,3,2024-01-27,4.6
+1915,Alice Wong,FEMALE,21.0,Bukhara,Clothing,$15,1,2024-03-11,
+1916,Bob Lee,FEMALE,,Tashkent,Other,$15,5,2024-02-06,4.2
+1917,Vali Aliyev,Female,,Bukhara,Other,$15,1,2024-03-31,3.3
+1918,Alice Wong, male ,,Samarkand,Clothing,"$5,000",4,2024-01-26,4.3
+1919,Sara Lee,FEMALE,54.0,Khiva,Clothing,"$1,200",1,2024-01-13,
+1920,, male ,21.0,,Furniture,$80,3,2024-03-21,4.3
+1921,Bob Lee,FEMALE,25.0,Bukhara,Other,$50,3,2024-03-24,4.4
+1922,Bob Lee, male ,120.0,Khiva,Beauty,$900,1,2024-01-16,2.8
+1923,,Female,120.0,Tashkent,Other,"$2,500",10,2024-03-14,3.7
+1924,Bob Lee,FEMALE,55.0,Khiva,Beauty,$900,10,2024-01-17,2.7
+1925,Bob Lee,Male,52.0,Khiva,Other,$15,9,2024-03-08,3.7
+1926,Vali Aliyev,Female,120.0,,Clothing,$900,1,2024-03-12,
+1927,John Doe,Female,20.0,Tashkent,Other,$50,5,2024-01-05,2.7
+1928,,Female,,Khiva,Electronics,"$5,000",4,2024-02-08,
+1929,Sara Lee,FEMALE,,Bukhara,Other,$15,6,2024-03-18,3.8
+1930,Ali Khan,Female,120.0,Tashkent,Clothing,$15,3,2024-02-08,4.6
+1931,John Doe, male ,120.0,Bukhara,Clothing,$80,10,2024-02-24,
+1932,Sara Lee,FEMALE,120.0,Khiva,Electronics,"$1,200",5,2024-03-27,3.6
+1933,Mike Ross,Female,31.0,Bukhara,Other,"$5,000",9,2024-03-18,2.9
+1934,Ali Khan,Female,,Tashkent,Beauty,"$1,200",2,2024-03-09,
+1935,Vali Aliyev, male ,120.0,Bukhara,Beauty,$50,3,2024-01-29,3.2
+1936,Vali Aliyev,Male,,Samarkand,Other,"$2,500",5,2024-03-16,
+1937,Mike Ross, male ,,,Electronics,$50,1,2024-01-22,
+1938,,FEMALE,120.0,Khiva,Other,$80,3,2024-02-03,2.5
+1939,Bob Lee, male ,26.0,Tashkent,Beauty,$15,4,2024-03-27,
+1940,Alice Wong, male ,,Bukhara,Furniture,$80,9,2024-01-30,3.3
+1941,Vali Aliyev,Male,,Tashkent,Clothing,"$1,200",2,2024-01-22,3.9
+1942,Alice Wong,Male,120.0,Khiva,Other,$15,3,2024-03-02,3.7
+1943,John Doe,Male,120.0,Khiva,Other,"$2,500",6,2024-02-01,5.0
+1944,,Female,46.0,Samarkand,Electronics,"$5,000",6,2024-01-18,3.8
+1945,Sara Lee, male ,,Tashkent,Beauty,"$2,500",4,2024-03-10,4.6
+1946,Mike Ross, male ,,Samarkand,Electronics,"$1,200",10,2024-02-20,
+1947,Alice Wong,FEMALE,50.0,Tashkent,Beauty,$15,1,2024-03-19,
+1948,Anna Kim,Female,24.0,Khiva,Beauty,"$1,200",1,2024-01-13,3.6
+1949,Sara Lee,FEMALE,120.0,Tashkent,Furniture,$50,1,2024-01-20,
+1950,Anna Kim, male ,,Bukhara,Furniture,$80,3,2024-03-09,4.5
+1951,Sara Lee,Female,,Bukhara,Furniture,"$2,500",1,2024-02-15,4.7
+1952,Ali Khan,Female,,Khiva,Furniture,$50,6,2024-01-05,2.9
+1953,Vali Aliyev,FEMALE,,Khiva,Other,"$2,500",8,2024-03-28,
+1954,Bob Lee,Female,120.0,Tashkent,Electronics,$900,1,2024-01-17,2.9
+1955,Anna Kim,FEMALE,33.0,,Electronics,$900,7,2024-03-02,
+1956,Sara Lee,Female,45.0,Samarkand,Beauty,$50,2,2024-02-03,5.0
+1957,Alice Wong,Male,45.0,,Other,$15,3,2024-01-25,5.0
+1958,Bob Lee,Male,25.0,Bukhara,Clothing,$80,3,2024-02-24,2.5
+1959,Bob Lee, male ,,Samarkand,Clothing,$50,6,2024-02-24,
+1960,Vali Aliyev, male ,,Bukhara,Beauty,$15,6,2024-02-23,3.1
+1961,Ali Khan, male ,20.0,Samarkand,Beauty,$80,8,2024-02-05,4.8
+1962,Alice Wong, male ,,Bukhara,Beauty,"$2,500",2,2024-01-13,4.2
+1963,Anna Kim, male ,120.0,Samarkand,Beauty,"$1,200",4,2024-03-15,3.5
+1964,Vali Aliyev,Male,120.0,,Clothing,$80,4,2024-03-31,3.6
+1965,Anna Kim, male ,120.0,Khiva,Clothing,$50,9,2024-01-20,2.6
+1966,Mike Ross, male ,120.0,Bukhara,Furniture,"$2,500",2,2024-02-25,
+1967,Sara Lee, male ,50.0,Samarkand,Beauty,"$5,000",1,2024-03-13,2.7
+1968,,Male,,Samarkand,Furniture,$15,9,2024-02-19,
+1969,John Doe,Female,,Tashkent,Clothing,"$2,500",10,2024-01-28,4.0
+1970,, male ,,Bukhara,Clothing,$900,5,2024-03-31,3.2
+1971,,Female,32.0,Bukhara,Electronics,$80,3,2024-02-05,
+1972,John Doe,Female,120.0,,Electronics,$900,1,2024-03-24,
+1973,, male ,120.0,Samarkand,Furniture,"$1,200",10,2024-02-07,3.3
+1974,John Doe, male ,,Samarkand,Beauty,$15,1,2024-03-09,4.1
+1975,Mike Ross,Female,120.0,Khiva,Clothing,$15,6,2024-02-04,
+1976,Bob Lee, male ,46.0,Samarkand,Furniture,$80,2,2024-03-04,3.0
+1977,Alice Wong,Female,29.0,Bukhara,Electronics,$900,5,2024-01-21,
+1978,Vali Aliyev,Female,56.0,Tashkent,Furniture,$15,4,2024-02-28,
+1979,Ali Khan,Male,51.0,Khiva,Furniture,$50,1,2024-01-15,4.6
+1980,Mike Ross,Female,33.0,,Electronics,$80,1,2024-01-14,
+1981,Sara Lee,FEMALE,23.0,,Furniture,$900,3,2024-02-09,3.3
+1982,Mike Ross,Male,120.0,Tashkent,Electronics,$80,2,2024-03-10,
+1983,Ali Khan,Female,18.0,Khiva,Furniture,$80,3,2024-02-15,4.1
+1984,Vali Aliyev,FEMALE,120.0,Samarkand,Electronics,$15,4,2024-01-14,
+1985,Anna Kim,Male,120.0,Bukhara,Electronics,"$1,200",1,2024-03-18,
+1986,Sara Lee,FEMALE,120.0,Samarkand,Beauty,"$5,000",10,2024-02-06,3.4
+1987,Anna Kim, male ,120.0,Tashkent,Electronics,"$1,200",3,2024-03-24,2.9
+1988,Alice Wong,Male,120.0,Tashkent,Other,"$2,500",7,2024-02-05,
+1989,Anna Kim, male ,,Khiva,Furniture,$80,8,2024-03-29,
+1990,Bob Lee,FEMALE,59.0,,Furniture,$80,9,2024-03-09,3.7
+1991,Bob Lee,Female,120.0,Tashkent,Clothing,"$2,500",6,2024-01-01,3.0
+1992,Sara Lee,Male,,Tashkent,Beauty,"$1,200",6,2024-01-18,3.2
+1993,John Doe,Female,,Samarkand,Electronics,$900,3,2024-01-16,4.9
+1994,Bob Lee, male ,120.0,Tashkent,Electronics,"$2,500",10,2024-01-10,3.7
+1995,Sara Lee,Male,,Samarkand,Electronics,$50,1,2024-03-13,
+1996,Sara Lee, male ,,Khiva,Furniture,$80,6,2024-02-26,4.5
+1997,Ali Khan,Male,25.0,,Clothing,"$1,200",9,2024-01-21,
+1998,Mike Ross, male ,120.0,Samarkand,Furniture,$15,3,2024-02-04,
+1999,Ali Khan,Female,,Khiva,Clothing,$80,9,2024-03-18,
+2000,Bob Lee,FEMALE,120.0,Samarkand,Electronics,"$2,500",6,2024-03-23,
+2001,Anna Kim, male ,24.0,Tashkent,Clothing,$50,5,2024-01-21,3.9
+2002,Mike Ross,Female,56.0,,Clothing,$80,1,2024-01-31,3.2
+2003,Ali Khan, male ,48.0,Tashkent,Beauty,"$5,000",1,2024-02-15,
+2004,Bob Lee, male ,,Samarkand,Electronics,"$5,000",6,2024-02-22,4.7
+2005,Bob Lee,FEMALE,27.0,,Electronics,"$5,000",5,2024-01-21,
+2006,John Doe,Female,58.0,Samarkand,Clothing,$50,9,2024-03-07,
+2007,Mike Ross, male ,,,Furniture,"$2,500",1,2024-03-28,3.5
+2008,Sara Lee,FEMALE,56.0,Tashkent,Electronics,"$5,000",3,2024-02-09,3.9
+2009,Anna Kim,Female,,Bukhara,Clothing,"$2,500",2,2024-02-05,
+2010,Alice Wong, male ,22.0,Khiva,Beauty,$50,8,2024-03-24,4.8
+2011,Anna Kim, male ,49.0,Khiva,Furniture,"$5,000",10,2024-03-28,
+2012,Anna Kim,Male,,Khiva,Other,"$5,000",8,2024-02-03,4.7
+2013,John Doe,Male,59.0,Samarkand,Electronics,"$5,000",5,2024-02-18,
+2014,Bob Lee,FEMALE,22.0,Tashkent,Beauty,$900,8,2024-02-29,
+2015,Vali Aliyev,FEMALE,23.0,Khiva,Clothing,$50,7,2024-02-12,
+2016,Alice Wong,Male,49.0,Bukhara,Furniture,"$5,000",1,2024-03-10,
+2017,Anna Kim,Male,58.0,,Furniture,$80,1,2024-02-16,
+2018,Ali Khan,FEMALE,21.0,Bukhara,Beauty,$80,3,2024-01-11,
+2019,Alice Wong,FEMALE,,,Clothing,"$2,500",5,2024-01-24,4.6
+2020,Sara Lee,Female,,Bukhara,Furniture,"$2,500",8,2024-03-01,3.8
+2021,Bob Lee,Male,,,Other,$15,4,2024-01-10,4.3
+2022,Anna Kim,Male,120.0,Samarkand,Furniture,"$1,200",3,2024-03-04,4.7
+2023,,Male,,Khiva,Clothing,$900,8,2024-03-22,4.9
+2024,John Doe,FEMALE,120.0,,Clothing,$50,10,2024-02-18,3.0
+2025,Anna Kim, male ,54.0,Tashkent,Beauty,$80,5,2024-03-05,4.5
+2026,Alice Wong,FEMALE,120.0,Khiva,Beauty,$15,6,2024-03-10,
+2027,Bob Lee, male ,,Samarkand,Other,$50,10,2024-01-21,
+2028,Bob Lee, male ,120.0,,Electronics,"$1,200",2,2024-01-14,2.7
+2029,Alice Wong,Male,44.0,Khiva,Other,"$5,000",10,2024-01-05,
+2030,,FEMALE,,Tashkent,Clothing,$80,8,2024-01-16,
+2031,Bob Lee,Male,120.0,Bukhara,Clothing,"$2,500",9,2024-02-06,
+2032,John Doe,Male,120.0,Khiva,Electronics,"$1,200",1,2024-01-04,
+2033,Anna Kim, male ,120.0,Samarkand,Other,$900,7,2024-01-31,
+2034,Bob Lee,Male,120.0,,Furniture,$80,3,2024-03-22,3.5
+2035,Sara Lee,FEMALE,120.0,Samarkand,Electronics,"$2,500",3,2024-03-05,
+2036,,Female,,Bukhara,Clothing,$900,2,2024-01-12,2.6
+2037,Ali Khan,Male,55.0,,Furniture,$15,1,2024-01-17,
+2038,John Doe, male ,120.0,Samarkand,Other,$80,4,2024-02-18,4.4
+2039,Ali Khan,Male,23.0,Tashkent,Furniture,"$1,200",10,2024-01-16,
+2040,Vali Aliyev,FEMALE,29.0,Bukhara,Clothing,"$1,200",7,2024-01-13,3.7
+2041,Vali Aliyev,Female,,Khiva,Furniture,"$2,500",6,2024-03-22,4.8
+2042,Sara Lee,Male,37.0,Tashkent,Beauty,$80,6,2024-03-02,5.0
+2043,Mike Ross,Male,120.0,Samarkand,Other,$80,1,2024-03-09,2.6
+2044,John Doe,Male,41.0,Bukhara,Clothing,$80,4,2024-01-11,4.3
+2045,John Doe,Male,,Bukhara,Other,"$1,200",5,2024-02-29,
+2046,John Doe, male ,,Samarkand,Clothing,"$2,500",5,2024-02-20,
+2047,Alice Wong,FEMALE,120.0,Khiva,Furniture,$80,10,2024-02-04,4.5
+2048,John Doe, male ,,Bukhara,Electronics,"$5,000",8,2024-01-22,
+2049,, male ,,Khiva,Electronics,"$5,000",2,2024-01-24,
+2050,John Doe,Male,,Samarkand,Beauty,$900,6,2024-01-19,4.4
+2051,Ali Khan, male ,120.0,Samarkand,Furniture,$50,10,2024-02-11,4.7
+2052,John Doe,Female,120.0,Tashkent,Other,"$2,500",5,2024-03-18,4.9
+2053,Bob Lee, male ,,Bukhara,Clothing,"$5,000",4,2024-01-07,
+2054,Vali Aliyev,Male,,Khiva,Clothing,$50,10,2024-02-11,4.0
+2055,Ali Khan,Male,,Khiva,Beauty,"$5,000",3,2024-02-21,2.6
+2056,Vali Aliyev,FEMALE,59.0,Tashkent,Furniture,"$1,200",5,2024-02-05,
+2057,Anna Kim,FEMALE,120.0,,Electronics,"$2,500",7,2024-02-08,
+2058,Anna Kim,Male,59.0,Tashkent,Clothing,"$2,500",1,2024-01-02,
+2059,Sara Lee,Male,45.0,Samarkand,Beauty,$900,9,2024-01-01,4.8
+2060,Ali Khan, male ,20.0,Tashkent,Beauty,"$1,200",6,2024-03-29,
+2061,Alice Wong,Male,28.0,Samarkand,Beauty,"$1,200",3,2024-03-15,
+2062,Vali Aliyev,Female,120.0,,Furniture,$15,8,2024-02-05,
+2063,Mike Ross,Male,,Bukhara,Other,$80,4,2024-03-25,4.1
+2064,Alice Wong,Male,22.0,Samarkand,Electronics,$15,4,2024-02-29,4.5
+2065,John Doe, male ,,Bukhara,Furniture,"$2,500",3,2024-03-05,2.8
+2066,Alice Wong,Female,,Khiva,Clothing,$80,2,2024-02-05,
+2067,Vali Aliyev,Female,120.0,Khiva,Electronics,$900,2,2024-01-31,
+2068,Alice Wong,FEMALE,35.0,Bukhara,Beauty,$80,2,2024-03-11,
+2069,,FEMALE,,,Beauty,$80,1,2024-02-26,3.2
+2070,Bob Lee,Female,,Bukhara,Clothing,$50,7,2024-01-23,
+2071,Ali Khan,Female,45.0,Tashkent,Clothing,"$5,000",2,2024-01-07,
+2072,Vali Aliyev, male ,120.0,Samarkand,Other,$80,7,2024-02-20,3.5
+2073,John Doe,Female,,Samarkand,Beauty,$15,5,2024-03-31,4.0
+2074,Alice Wong, male ,120.0,Samarkand,Clothing,$50,6,2024-03-28,2.7
+2075,Ali Khan,FEMALE,47.0,Khiva,Beauty,"$1,200",1,2024-01-23,4.9
+2076,Anna Kim,FEMALE,120.0,,Electronics,$80,8,2024-02-01,3.7
+2077,Mike Ross,Female,120.0,,Other,$900,3,2024-01-19,4.4
+2078,Alice Wong, male ,,,Beauty,"$1,200",8,2024-02-02,3.4
+2079,Anna Kim,FEMALE,,Tashkent,Beauty,$900,9,2024-03-22,
+2080,Sara Lee, male ,120.0,Khiva,Electronics,$900,4,2024-03-14,
+2081,Vali Aliyev,Female,120.0,Khiva,Electronics,"$1,200",5,2024-03-21,
+2082,Anna Kim, male ,,Khiva,Other,"$5,000",7,2024-02-05,3.3
+2083,Anna Kim,Male,120.0,Khiva,Furniture,"$5,000",10,2024-02-14,3.2
+2084,Sara Lee, male ,,,Other,"$2,500",3,2024-02-08,3.7
+2085,Alice Wong,Male,36.0,Samarkand,Beauty,$900,10,2024-01-16,
+2086,Ali Khan,Male,,Bukhara,Clothing,$50,6,2024-02-06,4.5
+2087,John Doe,FEMALE,35.0,,Electronics,$50,5,2024-01-29,
+2088,Bob Lee,FEMALE,,Tashkent,Beauty,$80,5,2024-03-17,
+2089,Sara Lee,Female,120.0,Bukhara,Clothing,$15,7,2024-03-11,
+2090,Alice Wong,Female,120.0,Khiva,Furniture,$50,2,2024-01-18,
+2091,Anna Kim,FEMALE,,Khiva,Furniture,"$5,000",7,2024-02-29,2.6
+2092,Sara Lee, male ,44.0,Samarkand,Other,$900,9,2024-02-17,
+2093,Bob Lee,Male,43.0,Khiva,Other,$50,8,2024-01-07,
+2094,Anna Kim,Male,59.0,Bukhara,Other,$900,8,2024-03-29,3.3
+2095,,Male,120.0,Samarkand,Other,$50,3,2024-03-12,
+2096,Sara Lee, male ,120.0,Bukhara,Electronics,$80,8,2024-03-20,4.2
+2097,Vali Aliyev,Male,18.0,Samarkand,Clothing,$50,2,2024-03-01,
+2098,Mike Ross,FEMALE,21.0,Khiva,Clothing,"$2,500",4,2024-03-10,
+2099,Vali Aliyev,FEMALE,120.0,Samarkand,Electronics,$900,3,2024-01-19,4.5
+2100,,Female,120.0,Khiva,Furniture,$80,5,2024-02-07,
+2101,Bob Lee,FEMALE,,Tashkent,Furniture,"$1,200",7,2024-02-24,
+2102,Bob Lee,Male,120.0,,Beauty,"$2,500",1,2024-03-23,
+2103,Alice Wong,FEMALE,40.0,Bukhara,Electronics,$50,3,2024-02-15,3.8
+2104,,Male,,Samarkand,Clothing,"$1,200",6,2024-03-24,
+2105,Mike Ross,FEMALE,,Tashkent,Furniture,"$2,500",7,2024-03-01,4.0
+2106,, male ,120.0,Samarkand,Beauty,"$5,000",10,2024-03-15,
+2107,Sara Lee,Female,20.0,Tashkent,Electronics,$50,8,2024-03-27,3.7
+2108,Sara Lee,FEMALE,33.0,Khiva,Electronics,$900,1,2024-03-19,3.1
+2109,Anna Kim,Male,,Samarkand,Beauty,$900,2,2024-03-30,3.6
+2110,John Doe,Female,120.0,Bukhara,Furniture,$15,8,2024-03-27,3.2
+2111,,Female,,Tashkent,Other,$15,1,2024-03-21,4.9
+2112,Ali Khan, male ,20.0,Khiva,Other,$80,9,2024-01-10,
+2113,Alice Wong, male ,120.0,Bukhara,Other,$80,9,2024-01-18,
+2114,Vali Aliyev,Male,,Samarkand,Other,"$2,500",5,2024-01-13,2.8
+2115,Anna Kim,Male,120.0,Samarkand,Beauty,$50,5,2024-02-19,4.3
+2116,Vali Aliyev,Female,,,Other,$900,9,2024-02-09,3.5
+2117,Alice Wong, male ,120.0,Tashkent,Electronics,"$5,000",6,2024-02-23,
+2118,John Doe, male ,21.0,Tashkent,Clothing,$900,8,2024-01-10,4.5
+2119,Vali Aliyev,FEMALE,,Samarkand,Beauty,"$1,200",1,2024-01-14,2.6
+2120,Alice Wong, male ,,Samarkand,Electronics,$15,1,2024-01-04,4.4
+2121,Ali Khan,FEMALE,,Tashkent,Furniture,"$5,000",7,2024-03-30,
+2122,Alice Wong,Male,26.0,,Beauty,"$5,000",6,2024-01-25,3.4
+2123,Ali Khan,Female,32.0,Khiva,Other,$80,10,2024-01-06,5.0
+2124,Vali Aliyev,Male,33.0,Samarkand,Furniture,$900,3,2024-02-06,
+2125,Mike Ross,Female,59.0,,Furniture,"$5,000",8,2024-03-25,2.8
+2126,John Doe,FEMALE,120.0,Bukhara,Clothing,$50,8,2024-02-08,
+2127,, male ,59.0,Bukhara,Other,$900,9,2024-01-14,
+2128,Mike Ross,Male,,Samarkand,Clothing,$15,9,2024-01-30,3.3
+2129,Sara Lee,Male,120.0,Samarkand,Furniture,$50,8,2024-01-15,2.6
+2130,Bob Lee, male ,120.0,Tashkent,Electronics,"$1,200",5,2024-03-19,3.5
+2131,Alice Wong,Male,,Samarkand,Clothing,$900,7,2024-01-24,4.1
+2132,, male ,37.0,Tashkent,Other,$15,6,2024-02-03,4.5
+2133,Bob Lee,FEMALE,,Tashkent,Electronics,$900,9,2024-02-19,
+2134,Bob Lee, male ,,Samarkand,Furniture,$900,8,2024-01-31,2.8
+2135,John Doe, male ,35.0,Bukhara,Other,"$1,200",7,2024-01-05,
+2136,Ali Khan,Male,,Bukhara,Other,"$1,200",6,2024-02-03,
+2137,Ali Khan,FEMALE,,Tashkent,Beauty,"$2,500",8,2024-03-22,4.6
+2138,Vali Aliyev, male ,120.0,,Other,"$2,500",6,2024-01-09,
+2139,Alice Wong,Female,,Samarkand,Clothing,$900,3,2024-03-20,4.1
+2140,Sara Lee,FEMALE,59.0,,Beauty,$50,1,2024-03-11,4.3
+2141,Ali Khan, male ,,,Electronics,$15,10,2024-01-31,3.4
+2142,,Male,46.0,Samarkand,Clothing,"$5,000",6,2024-03-14,
+2143,Mike Ross,Female,,Tashkent,Beauty,$50,10,2024-02-16,
+2144,Mike Ross,Male,,Samarkand,Beauty,$15,1,2024-02-07,4.8
+2145,Anna Kim, male ,56.0,Samarkand,Furniture,$50,10,2024-01-05,4.1
+2146,Vali Aliyev,Female,59.0,,Other,"$2,500",10,2024-03-21,
+2147,Ali Khan,FEMALE,120.0,,Other,"$5,000",8,2024-02-10,
+2148,Anna Kim,Female,39.0,Khiva,Beauty,$80,2,2024-03-29,
+2149,,Male,,Bukhara,Furniture,"$1,200",10,2024-01-30,
+2150,,Female,54.0,Khiva,Other,$80,3,2024-03-18,
+2151,Vali Aliyev,FEMALE,38.0,Khiva,Other,"$1,200",3,2024-03-14,3.7
+2152,Sara Lee,Male,47.0,Khiva,Beauty,$80,9,2024-03-01,4.4
+2153,Ali Khan,Female,,Tashkent,Clothing,$900,9,2024-03-08,
+2154,,Female,,Bukhara,Electronics,"$1,200",6,2024-02-13,4.0
+2155,Anna Kim,FEMALE,20.0,Khiva,Furniture,$15,7,2024-02-07,4.4
+2156,,Male,120.0,Samarkand,Electronics,$15,10,2024-03-16,
+2157,Sara Lee, male ,,Tashkent,Clothing,"$2,500",5,2024-03-04,
+2158,Anna Kim,Female,,Samarkand,Electronics,"$1,200",4,2024-02-25,
+2159,Sara Lee,Male,,Bukhara,Beauty,$50,8,2024-02-26,3.1
+2160,Vali Aliyev,Female,120.0,Bukhara,Clothing,"$1,200",2,2024-01-27,3.9
+2161,,Female,56.0,Tashkent,Furniture,$50,1,2024-02-17,
+2162,Sara Lee,FEMALE,120.0,Bukhara,Electronics,$15,2,2024-02-26,
+2163,Mike Ross,Male,23.0,Bukhara,Electronics,"$1,200",4,2024-01-10,
+2164,,Male,120.0,Bukhara,Electronics,"$1,200",7,2024-01-13,
+2165,Ali Khan,Male,120.0,Samarkand,Clothing,$80,10,2024-02-18,4.7
+2166,Alice Wong,Female,,Khiva,Clothing,$15,8,2024-02-06,2.8
+2167,Bob Lee,Male,31.0,Khiva,Other,"$5,000",10,2024-01-27,4.3
+2168,Bob Lee,Female,120.0,Bukhara,Furniture,"$2,500",9,2024-03-25,
+2169,Alice Wong,FEMALE,,Khiva,Other,$900,6,2024-03-10,3.7
+2170,Bob Lee,FEMALE,,Bukhara,Clothing,$80,7,2024-01-15,
+2171,Bob Lee,Female,,Khiva,Furniture,$15,10,2024-02-22,4.2
+2172,John Doe,FEMALE,120.0,Tashkent,Other,"$1,200",6,2024-02-03,
+2173,Bob Lee, male ,,Tashkent,Beauty,"$2,500",8,2024-01-29,3.3
+2174,John Doe,Female,,,Clothing,"$1,200",2,2024-03-19,4.0
+2175,Ali Khan,FEMALE,52.0,Tashkent,Beauty,"$5,000",6,2024-03-11,2.7
+2176,,Female,,Samarkand,Other,"$5,000",7,2024-01-30,3.2
+2177,John Doe,Female,,Tashkent,Electronics,"$1,200",1,2024-03-08,
+2178,Sara Lee, male ,49.0,Bukhara,Electronics,$900,4,2024-03-21,4.4
+2179,Vali Aliyev,FEMALE,120.0,Khiva,Clothing,$50,5,2024-01-11,
+2180,,Female,120.0,Tashkent,Other,$50,7,2024-01-25,
+2181,,Male,,Bukhara,Beauty,$900,8,2024-01-26,
+2182,Vali Aliyev,Female,,Khiva,Other,"$2,500",5,2024-03-02,3.2
+2183,Bob Lee, male ,,,Electronics,"$2,500",8,2024-01-29,3.9
+2184,Anna Kim,FEMALE,,,Electronics,"$2,500",5,2024-02-12,2.9
+2185,John Doe,FEMALE,53.0,,Clothing,$50,2,2024-01-19,
+2186,Ali Khan,FEMALE,54.0,Bukhara,Furniture,"$5,000",5,2024-02-13,4.6
+2187,Bob Lee,Male,120.0,Bukhara,Clothing,"$1,200",9,2024-03-03,
+2188,Alice Wong,FEMALE,,,Other,$15,2,2024-01-14,3.6
+2189,Sara Lee,Male,26.0,Samarkand,Clothing,"$2,500",8,2024-01-15,
+2190,,FEMALE,120.0,Samarkand,Other,"$2,500",7,2024-02-21,2.5
+2191,Mike Ross, male ,120.0,,Beauty,"$2,500",10,2024-03-24,
+2192,Anna Kim, male ,120.0,Khiva,Furniture,"$5,000",4,2024-02-12,4.8
+2193,Alice Wong,Male,120.0,Bukhara,Furniture,$80,3,2024-01-20,3.7
+2194,Vali Aliyev,FEMALE,30.0,Bukhara,Electronics,"$1,200",1,2024-03-20,3.7
+2195,,Female,120.0,Bukhara,Electronics,$50,4,2024-02-05,
+2196,Bob Lee, male ,,,Other,"$5,000",4,2024-01-10,4.0
+2197,Sara Lee, male ,,,Electronics,$15,3,2024-03-07,
+2198,Mike Ross,FEMALE,120.0,Samarkand,Clothing,"$1,200",1,2024-01-30,5.0
+2199,Sara Lee,Female,57.0,Khiva,Electronics,$900,6,2024-01-10,4.7
+1000,Mike Ross,Female,25.0,Samarkand,Clothing,$15,2,2024-03-27,4.4
+1001,Ali Khan,Male,45.0,Samarkand,Clothing,"$5,000",9,2024-03-18,2.6
+1002,,FEMALE,120.0,Samarkand,Furniture,$15,10,2024-02-05,4.5
+1003,Bob Lee, male ,120.0,Bukhara,Clothing,$900,4,2024-02-13,
+1004,Mike Ross,Male,,Khiva,Other,$50,2,2024-02-18,
+1005,Anna Kim,Female,120.0,Tashkent,Electronics,$900,4,2024-02-07,5.0
+1006,Mike Ross,FEMALE,,Bukhara,Clothing,$900,6,2024-02-15,
+1007,Sara Lee,Female,59.0,Samarkand,Furniture,$15,7,2024-02-04,5.0
+1008,John Doe,Male,38.0,Bukhara,Furniture,$15,5,2024-01-09,
+1009,Bob Lee,FEMALE,,Samarkand,Beauty,$80,3,2024-02-01,
+1010,Bob Lee, male ,,Samarkand,Clothing,$15,9,2024-03-04,2.7
+1011,Sara Lee,FEMALE,25.0,,Electronics,$900,7,2024-02-18,
+1012,Ali Khan,Male,120.0,,Beauty,"$5,000",6,2024-01-15,3.2
+1013,Mike Ross,Female,120.0,,Electronics,"$2,500",5,2024-03-22,3.8
+1014,,Male,41.0,,Beauty,$80,8,2024-01-03,
+1015,Ali Khan,Female,37.0,,Electronics,$900,2,2024-03-03,4.5
+1016,,Female,,Bukhara,Other,$80,10,2024-02-24,4.9
+1017,Anna Kim,FEMALE,,,Furniture,$15,2,2024-02-01,
+1018,John Doe,Female,120.0,Tashkent,Electronics,$50,1,2024-01-30,2.7
+1019,,Female,39.0,Bukhara,Furniture,$900,4,2024-03-10,
