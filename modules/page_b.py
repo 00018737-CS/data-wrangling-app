@@ -15,10 +15,10 @@ from modules.cleaning_tools import tab7_col_ops
 from modules.cleaning_tools import tab8_validation
 
 # API KEY 
-GEMINI_API_KEY = "AIzaSyBbWNzJtH-XTWSg1944cIPDSl_ZqxRrfeg"
+GEMINI_API_KEY = "AIzaSyBeEMQzQAo7poc3gcBYx2n65I-DChqM18k"
 
 def render():
-    st.header("🛠️ Page B — Data Cleaning Studio")
+    st.header("Page B — Data Cleaning Studio")
     
     if 'df' not in st.session_state or st.session_state.df is None:
         st.warning("Please upload data on 'Page A — Upload & Overview' first!")

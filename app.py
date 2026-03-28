@@ -1,13 +1,14 @@
 import streamlit as st
 import pandas as pd
 
-
+# 1. PAGE CONFIGURATION
 st.set_page_config(
     page_title="AI Data Wrangler", 
     page_icon="", 
     layout="wide"
 )
 
+# 2. SESSION STATE INITIALIZATION
 if 'df' not in st.session_state:
     st.session_state.df = None
 if 'original_filename' not in st.session_state:
@@ -15,6 +16,7 @@ if 'original_filename' not in st.session_state:
 if 'log' not in st.session_state:
     st.session_state.log = []
 
+# 3. SIDEBAR NAVIGATION
 st.sidebar.title("Navigation")
 st.sidebar.write("AI-Assisted Data Wrangler & Visualizer")
 

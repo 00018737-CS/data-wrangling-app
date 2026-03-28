@@ -76,5 +76,5 @@ def render():
         )
 
     # Add A Preview Of How The JSON Recipe Looks
-    with st.expander("👀 Peek at the JSON Recipe"):
+    with st.expander(" Peek at the JSON Recipe"):
         st.code(json_recipe, language="json")
