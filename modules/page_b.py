@@ -15,7 +15,7 @@ from modules.cleaning_tools import tab7_col_ops
 from modules.cleaning_tools import tab8_validation
 
 # API KEY 
-GEMINI_API_KEY = "AIzaSyBeEMQzQAo7poc3gcBYx2n65I-DChqM18k"
+GEMINI_API_KEY = "AIzaSyBdEeFxpiyO7J0D-uKjBhNx-O9vyyl10DE"
 
 def render():
     st.header("Page B — Data Cleaning Studio")
